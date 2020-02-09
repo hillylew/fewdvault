@@ -7,6 +7,7 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPassthroughCopy({ "src/icons": "./" });
   eleventyConfig.addPassthroughCopy({ "src/cms/dist": "./admin" });
   eleventyConfig.addPassthroughCopy({ "src/uploads": "uploads" });
+  eleventyConfig.addPassthroughCopy({ "src/fonts": "fonts" });
 
   // Filters.
   eleventyConfig.addFilter("prettyDate", dateObject => {
