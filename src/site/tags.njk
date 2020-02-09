@@ -1,0 +1,23 @@
+---
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - all
+    - nav
+    - tagList
+  addAllPagesToCollections: true
+layout: layouts/base
+permalink: /categories/{{ tag }}/
+---
+<main id="main">
+  <h2>Categorized “{{ tag }}”</h2>
+
+  {% set recipeslist = collections[ tag ] %}
+  {% include "layouts/recipes-list.njk" %}
+
+  <br />
+  <p>See <a href="{{ '/categories/' | url }}">all categories</a>.</p>
+
+</main>

@@ -1,0 +1,95 @@
+/* inconsolata-regular - latin */
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/inconsolata-v18-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Inconsolata Regular'), local('Inconsolata-Regular'),
+       url('../fonts/inconsolata-v18-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/inconsolata-v18-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/inconsolata-v18-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/inconsolata-v18-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/inconsolata-v18-latin-regular.svg#Inconsolata') format('svg'); /* Legacy iOS */
+}
+
+/* inconsolata-700 - latin */
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/inconsolata-v18-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Inconsolata Bold'), local('Inconsolata-Bold'),
+       url('../fonts/inconsolata-v18-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/inconsolata-v18-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/inconsolata-v18-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/inconsolata-v18-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/inconsolata-v18-latin-700.svg#Inconsolata') format('svg'); /* Legacy iOS */
+}
+
+body,
+.main {
+  font-family: "Inconsolata";
+  background-color: var(--outer-space);
+  color: var(--malachite);
+}
+
+.container {
+  max-width: 1250px;
+  padding: 1rem;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  margin: 0 0 2rem;
+  font-size: 2rem;
+}
+
+h3 {
+  margin: 0 0 1rem;
+  font-size: 1.5rem;
+}
+
+h4 {
+  margin: 0 0 1rem;
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+
+.field-label {
+  font-weight: bold;
+}
+
+::selection {
+  background-color: var(--limed-spruce);
+  color: var(--purple-pizzazz);
+}
+
+a {
+  color: var(--cyan);
+}
+
+a:hover {
+  color: var(--chartreuse-yellow);
+}
+
+a:visited,
+a:focus,
+a:active {
+  color: (var(--purple-pizzazz);)
+}
+
+#main {
+  padding: 2rem 1rem;
+}
+
+ol,
+ul {
+  margin: 1rem 0 1rem 2rem;
+}
+
+ol {
+  list-style-type: decimal; 
+}

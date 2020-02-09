@@ -1,0 +1,14 @@
+/* Import tailwind classes; don't worry, any unused classes will be 
+removed with the production build */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* purgecss start ignore */
+
+/* Import files or write CSS here!*/
+@import "./_variables.css";
+@import "./_base.css";
+@import "./_utilities.css";
+
+/* purgecss end ignore */

@@ -1,0 +1,59 @@
+---
+layout: layouts/base
+---
+
+<main id="main" class="container mx-auto main">
+  <h2 class="leading-none">{{ title }}</h2>
+  <div class="flex page-top">
+    {% if image %}
+      <img class="h-64 mr-6" src="{{ image}}" title="{{ title }}" />
+    {% endif %}
+    <div class="recipe-stats">
+      {% if source %}
+        <div class="text-sm uppercase">
+          <a href="{{ source_url }}" class="self-end font-bold hover:underline focus:underline">{{ source }}</a>
+        </div>
+      {% endif %}
+      {% if yield %}
+        <div>
+          <span class="field-label">Yield: </span>
+          <span>{{ yield }}</span>
+        </div>
+      {% endif %}
+      {% if total_time %}
+        <div>
+          <span class="field-label">Total Time: </span>
+          <span>{{ total_time }}</span>
+        </div>
+      {% endif %}
+      {% if tags %}
+        <div>
+          <span class="field-label">Categories: </span>
+          {% set tagList = tags %}
+          {% include "layouts/tags-linked.njk" %}
+        </div>
+      {% endif %}
+    </div>
+  </div>
+  <div class="my-8 text-lg content">
+    {{ content |safe }}
+  </div>
+  {% if ingredients %}
+    <h3>Ingredients</h3>
+    <div class="mb-8 ingredients">
+      {{ ingredients |safe }}
+    </div>
+  {% endif %}
+  {% if instructions %}
+    <h3>Instructions</h3>
+    <div class="mb-8 instructions">
+      {{ instructions |safe }}
+    </div>
+  {% endif %}
+  {% if notes %}
+    <h4>Notes</h4>
+    <div class="text-sm">
+      {{ notes |safe }}
+    </div>
+  {% endif %}
+</main>

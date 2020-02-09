@@ -1,0 +1,31 @@
+.clip {
+  position: fixed !important;
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
+.focusable:focus {
+  clip: auto;
+  position: relative !important;
+}
+
+.lazyload,
+.lazyloading {
+  opacity: 0;
+}
+
+.lazyloaded {
+  opacity: 1;
+  transition: opacity 0.5s;
+}
+
+#Capa_1 {
+  fill: var(--malachite);
+}
+
+.tag {
+  display: inline-block;
+  color: var(--silver);
+  background-color: var(--hollywood-cerise);
+  padding: 0 0.25rem;
+  margin: 0.25rem;
+}

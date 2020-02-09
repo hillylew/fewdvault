@@ -1,0 +1,40 @@
+<div class="flex flex-wrap justify-around">
+    {% for recipe in recipeslist %}
+        <article class="w-full p-4 mb-8 border md:w-2/5 border-purple-pizzazz">
+            <a href="{{ recipe.url }}">
+                <h2 class="mb-2 leading-none">{{ recipe.data.title }}</h2>
+            </a>
+            <div class="lg:flex">
+                {% if recipe.data.image %}
+                    <img class="object-cover mb-4 mr-4 lg:w-32" src="{{ recipe.data.image}}" title="{{ recipe.data.title }}" />
+                {% endif %}
+                <div class="">
+                    {% if recipe.data.source %}
+                        <div class="text-sm uppercase">
+                            <a href="{{ recipe.data.source_url }}" class="self-end font-bold hover:underline focus:underline">{{ recipe.data.source }}</a>
+                        </div>
+                    {% endif %}
+                    {% if recipe.data.yield %}
+                        <div>
+                            <span class="field-label">Yield: </span>
+                            <span>{{ recipe.data.yield }}</span>
+                        </div>
+                    {% endif %}
+                    {% if recipe.data.total_time %}
+                        <div>
+                            <span class="field-label">Total Time: </span>
+                            <span>{{ recipe.data.total_time }}</span>
+                        </div>
+                    {% endif %}
+                    {% if recipe.data.tags %}
+                        <div>
+                            <span class="field-label">Categories: </span>
+                            {% set tagList = recipe.data.tags %}
+                            {% include "layouts/tags-linked.njk" %}
+                        </div>
+                    {% endif %}
+                </div>
+            </div>
+        </article>
+    {% endfor %}
+</div>

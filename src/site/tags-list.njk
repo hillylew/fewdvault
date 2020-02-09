@@ -1,0 +1,10 @@
+---
+layout: layouts/base
+permalink: /categories/
+---
+<main id="main">
+    <h2>Categories</h2>
+
+    {% set tagList = collections.tagList %}
+    {% include "layouts/tags-linked.njk" %}
+</main>

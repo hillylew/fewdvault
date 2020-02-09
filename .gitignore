@@ -1,0 +1,5 @@
+# Ignore dev and build directories.
+node_modules
+public
+.idea
+.vscode

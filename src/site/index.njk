@@ -1,0 +1,8 @@
+---
+layout: layouts/base
+title: The Fewd Vault
+---
+<main id="main">
+    {% set recipeslist = collections.types["recipes"] %}
+    {% include "layouts/recipes-list.njk" %}
+</main>

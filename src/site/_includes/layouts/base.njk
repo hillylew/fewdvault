@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <meta name="description" content="{{ seo.meta }}">
+    <meta name="twitter:card" value="summary">
+    <meta property="og:title" content="{{ title }}"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="{{ site.url }}"/>
+    <meta property="og:image" content="{{ site.url }}/og-image.jpg"/>
+    <meta property="og:description" content="{{ seo.meta }}"/>
+    <meta name="theme-color" content="#00274c"/>
+
+    <link rel="stylesheet" href="/main.css">
+    <link rel="manifest" href="/manifest.webmanifest">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+    <title>{{ title }} | {{ site.title }}</title>
+
+    <script defer src="/main.js"></script>
+  </head>
+  <body>
+    {% include "skip-link.njk" %}
+    {% include "header.njk" %}
+    <div id="page-wrapper">
+      {{ content | safe }}
+    </div>
+    {% include "footer.njk" %}
+  </body>
+</html>
