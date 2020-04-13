@@ -10,7 +10,7 @@ total_time: 3 hours
 image: /uploads/reubenDip.jpg
 favorite: true
 tags: appetizers
-ingredients: "* 1 (16 ounce) jar sauerkraut, drained1 (8 ounce) package cream cheese, softened\n* 2 cups shredded Swiss cheese\uFEFF 1 (8 ounce) package cream cheese, softened\n* 2 cups shredded Swiss cheese\n* 2 cups shredded cooked corned beef1/4 cup thousand island dressing\uFEFF\n* 1/4 cup thousand island dressing"
+ingredients: "* 1 (16 ounce) jar sauerkraut, drained\n* 1 (8 ounce) package cream cheese, softened\n* 2 cups shredded Swiss cheese\n* 1 (8 ounce) package cream cheese, softened\n* 2 cups shredded Swiss cheese\n* 2 cups shredded cooked corned beef\n* 1/4 cup thousand island dressing\n* 1/4 cup thousand island dressing"
 instructions: >-
   1. In a slow cooker, combine the sauerkraut, cream cheese, Swiss cheese,
   corned beef and thousand island dressing. 
