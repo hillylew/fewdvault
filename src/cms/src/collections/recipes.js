@@ -15,57 +15,68 @@ export const recipes = {
     {
       label: "Source",
       name: "source",
-      widget: "string"
+      widget: "string",
+      required: false
     },
     {
       label: "Source URL",
       name: "source_url",
-      widget: "string"
+      widget: "string",
+      required: false
     },
     {
       label: "Yield",
       name: "yield",
-      widget: "string"
+      widget: "string",
+      required: false
     },
     {
       label: "Active Time",
       name: "active_time",
-      widget: "string"
+      widget: "string",
+      required: false
     },
     {
       label: "Total Time",
       name: "total_time",
-      widget: "string"
+      widget: "string",
+      required: false
     },
     {
       label: "Image",
       name: "image",
-      widget: "image"
+      widget: "image",
+      required: false
     },
     {
       label: "Favorite",
       name: "favorite",
-      widget: "boolean"
+      widget: "boolean",
+      required: false
     },
     {
       label: "Categories",
       name: "tags",
-      widget: "string"
+      widget: "string",
+      required: false
     },
     {
       label: "Ingredients",
       name: "ingredients",
-      widget: "markdown"
+      widget: "markdown",
+      required: false
     },
     {
       label: "Instructions",
       name: "instructions",
-      widget: "markdown"
+      widget: "markdown",
+      required: false
     },
     {
       label: "Notes",
       name: "notes",
-      widget: "markdown"
+      widget: "markdown",
+      required: false
     }
   ]
 };

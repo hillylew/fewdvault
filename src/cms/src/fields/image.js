@@ -1,7 +1,8 @@
 export const image = {
   label: "Image",
   name: "image",
-  widget: "image"
+  widget: "image",
+  required: false
 };
 
 export const imageAlt = {
