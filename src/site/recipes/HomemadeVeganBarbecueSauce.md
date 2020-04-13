@@ -21,8 +21,8 @@ ingredients: "<ul><li>1 12oz. can tomato paste</li>
 	<li>1/2 teaspoon cumin powder</li>
 	<li>1 1/2 tablespoons Sriracha</li>
 	<li>salt and pepper to taste</li></ul>"
-instructions: "<ul><li>In a medium saucepan, over medium heat, mix together all of the ingredients.</li>
+instructions: "<ol><li>In a medium saucepan, over medium heat, mix together all of the ingredients.</li>
 	<li>Bring to a boil, then reduce heat to low and simmer 15 to 20 minutes, stirring occasionally.</li>
-	<li>Serve immediately or store in an airtight glass container.</li></ul>"
+	<li>Serve immediately or store in an airtight glass container.</li></ol>"
 notes: 2 tablespoons is a lot for liquid smoke - adjusting this to less will change the rest of the proportions 
 ---

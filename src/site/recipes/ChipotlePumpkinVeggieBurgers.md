@@ -27,7 +27,7 @@ ingredients: "<ul>
 	<li>1 TBSP oil</li>
 	<li>1.5 cups old-fashioned rolled oats</li>
 	</ul>"
-instructions: "<ul>
+instructions: "<ol>
 	<li>To make your flax egg, whisk together 1 TBSP ground flax with 3 TBSP water and pop it in the fridge to set.</li>
 	<li>Next coarsely mash your beans in a large bowl and set aside. For added texture, you can leave some of the beans in tact.
 	<li>Add your pumpkin, chopped chipotle peppers, garlic, and onion to the beans and season with your Italian seasoning blend, salt, garlic powder, paprika and red pepper flakes, then stir to coat.</li>
@@ -39,5 +39,5 @@ instructions: "<ul>
 	<li>Place burgers onto a plate, cover with foil or cling wrap and refrigerate as you prep your buns (or lettuce wraps!) and toppings. This will give them a little while to set. You can even leave them overnight and cook them up the following day. I often make one after 15-30 minutes of chill time and cook up the rest the following day.</li>
 	<li>Pour a tablespoon or two of oil in a skillet and heat to medium-high, so the burgers sizzle when you add them to the pan!</li>
 	<li>Cook for a few minutes on each side until you're left with a golden crust. and a warm center. Repeat for each burger, or cook two at once if you have a big enough pan! I'd skip crowding all four together just because they're a pain to flip when all up in eachother's business. A tip for perfectly shaped veggie burgers? While sizzling away in the skillet, I use my spatula to gently nudge the sides of each patty and help form the sides into a perfect disc. Works like a charm!</li>
-  </ul>"
+  </ol>"
 ---

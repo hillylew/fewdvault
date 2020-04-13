@@ -14,8 +14,8 @@ ingredients: "<strong>Cake</strong><ul><li>10 to 12 oz diet soda</li>
 	Or</li>
 	<li>12 oz free cool whip</li>
 	<li>1 pouch pudding mix</li></ul>"
-instructions: "<ul><li>Follow box directions for cake.</li>
-	<li>Cool cake, mix pudding mix with cool whip and spread right away. Cool in fridge for frosting to set.</li></ul>"
+instructions: "<ol><li>Follow box directions for cake.</li>
+	<li>Cool cake, mix pudding mix with cool whip and spread right away. Cool in fridge for frosting to set.</li></ol>"
 notes: 'Suggested Combinations: <br>
 	yellow cake mix / diet lemon-lime soda (with a dollop of Cool Whip -- tastes like a "Twinkie")<br>
 	orange cake / diet Mountain Dew<br>
