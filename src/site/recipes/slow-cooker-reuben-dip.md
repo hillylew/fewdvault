@@ -21,10 +21,6 @@ instructions: >-
   3. Stir occasionally while cooking. 
 
   4. Serve with cocktail rye or crackers.
-notes: >-
-  A wonderful, easy, creamy hot dip that even sauerkraut haters love. I often
-  take this to work potlucks because I can assemble it at work. Just throw
-  everything in and stir a few times. Also, it's delicious when it's overcooked
-  and kind of dry!
+notes: ''
 ---
 A wonderful, easy, creamy hot dip that even sauerkraut haters love. I often take this to work potlucks because I can assemble it at work. Just throw everything in and stir a few times. Also, it's delicious when it's overcooked and kind of dry!
