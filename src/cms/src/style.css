@@ -1,0 +1,17 @@
+/* Netlify CMS overrrides */
+
+[class*="StyledAuthenticationPage"] {
+  background-color: #00274c;
+}
+
+[class*="CustomIconWrapper"] {
+  text-align: center;
+}
+
+button[class*="LoginButton"] {
+  margin-top: 0;
+}
+
+span[class*="NetlifyCreditIcon"] {
+  display: none;
+}
