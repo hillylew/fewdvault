@@ -36,24 +36,24 @@ layout: layouts/base
     </div>
   </div>
   <div class="my-8 text-lg content">
-    {{ content |safe }}
+    {{ content | safe }}
   </div>
   {% if ingredients %}
     <h3>Ingredients</h3>
     <div class="mb-8 ingredients">
-      {{ ingredients |safe }}
+      {{ ingredients | markdown | safe }}
     </div>
   {% endif %}
   {% if instructions %}
     <h3>Instructions</h3>
     <div class="mb-8 instructions">
-      {{ instructions |safe }}
+      {{ instructions | markdown | safe }}
     </div>
   {% endif %}
   {% if notes %}
     <h4>Notes</h4>
     <div class="text-sm">
-      {{ notes |safe }}
+      {{ notes | markdown | safe }}
     </div>
   {% endif %}
 </main>
