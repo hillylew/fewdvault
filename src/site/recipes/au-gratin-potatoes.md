@@ -1,6 +1,7 @@
 ---
 title: Au Gratin Potatoes
 uuid: 2d0d6899-3f69-465b-bbad-319b57f81c22
+image: /uploads/auGratinPotatoes.jpg
 favorite: true
 tags: 'american, sides'
 ingredients: |-
