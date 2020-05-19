@@ -7,22 +7,25 @@ yield:
 active_time: 
 total_time: 
 tags: dessert
-ingredients: "<strong>brownies</strong><ul><li>1 cup sugar</li>
-	<li>1/2 cup flour</li>
-	<li>1/3 cup cocoa</li>
-	<li>1/4 tsp salt</li>
-	<li>1/4 tsp baking powder</li>
-	<li>2 eggs</li>
-	<li>1 stick butter</li>
-	<li>1 tsp vanilla</li></ul>
-	<strong>cream cheese frosting</strong><ul>
-	<li>8 oz cream cheese</li>
-	<li>1/3 cup sugar</li>
-	<li>1 egg</li>
-	<li>1/2 tsp vanilla</li></ul>"
-instructions: '<ol><li>Make brownies by creaming sugar with butter, then mixing in rest of the ingredients until smooth.</li>
-	<li>Mix cream cheese by whipping the cream cheese first, then adding the rest of the ingredients.</li>
-	<li>Spread brownie mix on a greased and floured pan, then pour cream cheese mix over it.</li>
-	<li>Run a knife through over and over to create a marble effect.</li>
-	<li>Bake in a 9"x9" pan for thick brownies (9"x13" for thin) at 350 for 35 - 40 minutes.</li></ol>'
+ingredients: |-
+  **brownies**   
+  * 1 cup sugar 
+  * 1/2 cup flour 
+  * 1/3 cup cocoa 
+  * 1/4 tsp salt 
+  * 1/4 tsp baking powder 
+  * 2 eggs 
+  * 1 stick butter 
+  * 1 tsp vanilla  
+  **cream cheese frosting** 
+  * 8 oz cream cheese 
+  * 1/3 cup sugar 
+  * 1 egg 
+  * 1/2 tsp vanilla
+instructions: |-
+  * Make brownies by creaming sugar with butter, then mixing in rest of the ingredients until smooth. 
+  * Mix cream cheese by whipping the cream cheese first, then adding the rest of the ingredients. 
+  * Spread brownie mix on a greased and floured pan, then pour cream cheese mix over it. 
+  * Run a knife through over and over to create a marble effect. 
+  * Bake in a 9"x9" pan for thick brownies (9"x13" for thin) at 350 for 35 - 40 minutes.
 ---

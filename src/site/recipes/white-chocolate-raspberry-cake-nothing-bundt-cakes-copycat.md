@@ -10,7 +10,7 @@ total_time: 55 minutes
 image: /uploads/White-Chocolate-Raspberry-Bundt-Cake.jpg
 favorite: true
 tags: dessert
-ingredients: >-
+ingredients: |-
   * 1 box white cake mix (15.25 ounces) 3.4 ounces instant white chocolate
   pudding mix (dry)
 
@@ -55,7 +55,7 @@ ingredients: >-
   * 3-4 cup powdered sugar
 
   * 2 teaspoons vanilla
-instructions: >-
+instructions: |-
   1. Spray a non-stick formed aluminum bundt pan with cooking spray (see above)
   and preheat your oven to 350-degrees. Mix first six ingredients together with
   a beater. Fold in white chocolate chips.

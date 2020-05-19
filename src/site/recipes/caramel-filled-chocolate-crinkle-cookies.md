@@ -9,7 +9,7 @@ total_time: 1 hour
 image: /uploads/CaramelCrinkleCookies.jpg
 favorite: true
 tags: dessert
-ingredients: >-
+ingredients: |-
   * 1/2 cup Butter
 
   * 1 1/4 cup Brown Sugar
@@ -30,7 +30,7 @@ ingredients: >-
 
   * 14 - 20 Soft Chewy Caramels (such as Werther's Soft Chewy Caramels, Mrs.
   Call's Caramels, Rolos)
-instructions: >-
+instructions: |-
   1. In a medium saucepan, over medium-low heat, melt the butter.
 
   2. Remove from heat and add brown sugar and cocoa powder. Stir for 1-2 minutes

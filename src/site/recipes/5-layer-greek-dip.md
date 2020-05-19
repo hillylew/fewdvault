@@ -9,19 +9,15 @@ tags:
   - appetizers
   - veg
 image: /uploads/greekDip.jpg
-ingredients:
-  <ul>
-  <li>1 pkg. (7 oz.) ATHENOS Original Hummus</li>
-  <li>1 pkg. (4 oz.) ATHENOS Traditional Feta Cheese, crumbled</li>
-  <li>1/2 cup chopped tomatoes</li>
-  <li>1/4 cup chopped cucumbers</li>
-  <li>2 Tbsp. sliced kalamata olives</li>
-  <li>ATHENOS Pita Chips Original</li>
-  </ul>
-instructions:
-  <ol>
-  <li>SPREAD hummus onto bottom of 9-inch pie plate.</li>
-  <li>COVER with layers of remaining ingredients.</li>
-  <li>SERVE with chips.</li>
-  </ol>
+ingredients: |-
+  * 1 pkg. (7 oz.) ATHENOS Original Hummus 
+  * 1 pkg. (4 oz.) ATHENOS Traditional Feta Cheese, crumbled 
+  * 1/2 cup chopped tomatoes 
+  * 1/4 cup chopped cucumbers 
+  * 2 Tbsp. sliced kalamata olives 
+  * ATHENOS Pita Chips Original 
+instructions: |-
+  * SPREAD hummus onto bottom of 9-inch pie plate. 
+  * COVER with layers of remaining ingredients. 
+  * SERVE with chips. 
 ---

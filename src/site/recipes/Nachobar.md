@@ -6,21 +6,25 @@ source_url:
 yield: 
 active_time: 
 total_time: 
-tags: ['american', 'appetizers', 'mexican']
-ingredients: "<ul><li>Tortilla chips</li>
-	<li>Nacho cheese</li>
-	<li>Diced tomatoes and/or salsa</li>
-	<li>Green onions</li>
-	<li>Lettuce</li>
-	<li>Black beans</li>
-	<li>Taco beef/chicken</li>
-	<li>Refried beans</li>
-	<li>Green chilies</li>
-	<li>Jalapeños</li>
-	<li>Banana peppers</li>
-	<li>Black and green olives</li>
-	<li>Avocados and/or guacamole</li>
-	<li>Sour cream</li>
-	<li>Bacon</li></ul>"
-instructions:
+tags: 
+  - american
+  - appetizers
+  - mexican
+ingredients: |-
+  * Tortilla chips 
+  * Nacho cheese 
+  * Diced tomatoes and/or salsa 
+  * Green onions 
+  * Lettuce 
+  * Black beans 
+  * Taco beef/chicken 
+  * Refried beans 
+  * Green chilies 
+  * Jalapeños 
+  * Banana peppers 
+  * Black and green olives 
+  * Avocados and/or guacamole 
+  * Sour cream 
+  * Bacon 
+instructions: |-
 ---

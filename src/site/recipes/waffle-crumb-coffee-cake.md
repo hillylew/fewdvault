@@ -10,7 +10,7 @@ total_time: 1 hour 30 minutes
 image: /uploads/WaffleCrumbCake.jpg
 favorite: true
 tags: 'dessert, breakfast'
-ingredients: >-
+ingredients: |-
   **Cake Batter**
 
 
@@ -46,7 +46,7 @@ ingredients: >-
   * 1 teaspoon cinnamon
 
   * 3 1/2 tablespoons butter
-instructions: >-
+instructions: |-
   1. Pre-heat oven to 320° (160° celsius) Grease and flour a 9 inch cake pan.
 
 

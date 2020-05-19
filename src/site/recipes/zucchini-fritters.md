@@ -1,20 +1,16 @@
 ---
 title: Zucchini Fritters
-ingredients: 
-  <ul>
-  <li>2 cups shredded zucchini</li>
-  <li>1/4 cup bread flour</li>
-  <li>1/4 cup Parmesan cheese</li>
-  <li>1/3 cup green onions</li>
-  <li>Salt, pepper, garlic, onion</li>
-  </ul>
-instructions: 
-  <ol>
-  <li>Mix all ingredients thoroughly.</li>
-  <li>Drop spoonfuls into a hot, oiled pan.</li>
-  <li>Fry until crispy and brown, about 4 minutes per side.</li>
-  <li>Dry and cool on paper towels, enjoy with sour cream.</li>
-  </ol>
+ingredients: |-
+  * 2 cups shredded zucchini 
+  * 1/4 cup bread flour 
+  * 1/4 cup Parmesan cheese 
+  * 1/3 cup green onions 
+  * Salt, pepper, garlic, onion 
+instructions: |-
+  * Mix all ingredients thoroughly. 
+  * Drop spoonfuls into a hot, oiled pan. 
+  * Fry until crispy and brown, about 4 minutes per side. 
+  * Dry and cool on paper towels, enjoy with sour cream. 
 source: 
 source_url: 
 yield: 8
