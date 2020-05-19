@@ -7,6 +7,7 @@ active_time:
 total_time: 
 tags: 
   - asian
+  - sides
 image: /uploads/garlicFriedRice.jpg
 ingredients: |-
   * 4 large eggs 

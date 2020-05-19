@@ -7,6 +7,7 @@ active_time: 20
 total_time: 45
 tags: 
   - breakfast
+  - dessert
 image: /uploads/LFBananaBraMuffin.jpg
 ingredients: |-
   * 1/4 cup applesauce, unsweetened 

@@ -8,6 +8,7 @@ total_time:
 tags: 
   - american
   - veg
+  - entrees
 image: /uploads/blackBeanQuinoaBurgers.jpg
 ingredients: |-
   * 1/2 cup quinoa 

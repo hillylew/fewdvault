@@ -9,6 +9,7 @@ total_time:
 tags: 
   - american
   - veg
+  - sides
 image: /uploads/picnicCaviar.jpg
 ingredients: |-
   * 1/4 cup rice vinegar 

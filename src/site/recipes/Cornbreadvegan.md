@@ -8,6 +8,7 @@ active_time: 10 minutes
 total_time: 25 minutes
 tags: 
   - american
+  - veg
 ingredients: |-
   * 1 1/4 cups all purpose flour 
   * 1 cup yellow corn meal 

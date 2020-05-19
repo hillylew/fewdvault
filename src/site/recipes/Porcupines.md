@@ -8,6 +8,7 @@ active_time:
 total_time: 
 tags: 
   - american
+  - entrees
 ingredients: |-
   * 1 pound hamburger 
   * 1/2 cup uncooked white rice 

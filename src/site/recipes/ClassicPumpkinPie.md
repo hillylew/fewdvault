@@ -7,6 +7,7 @@ yield: 8 servings
 active_time: 25 minutes
 total_time: 6 hours 45 minutes
 tags: 
+  - american
   - dessert
 ingredients: |-
   **Pie Crust**

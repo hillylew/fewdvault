@@ -7,6 +7,8 @@ source_url: http://www.food.com/recipe/homemade-bread-bowls-495386
 yield: 8.0 servings
 active_time: 
 total_time: 2 hrs 18 mins
+tags:
+  - sides
 image: /uploads/breadBowls.jpg
 ingredients: |-
   * 2 tablespoons yeast 

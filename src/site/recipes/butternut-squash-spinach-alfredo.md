@@ -7,6 +7,7 @@ active_time:
 total_time: 
 tags: 
   - veg
+  - entrees
 image: /uploads/butternutSquashAlfredo.jpg
 ingredients: |-
   * 3 cups cubed butternut squash 

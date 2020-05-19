@@ -7,6 +7,7 @@ active_time: 15
 total_time: 90
 tags: 
   - american
+  - dessert
 image: /uploads/LFPineappleZucchiniBread.jpg
 ingredients: |-
   * 2 1/2 cups zucchini (grated) 

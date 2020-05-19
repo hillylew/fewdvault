@@ -6,6 +6,8 @@ source_url:
 yield: 
 active_time: 
 total_time: 
+tags: 
+  - dessert
 ingredients: |-
   * 1 cup (2 sticks) unsalted butter, room temperature 
   * 2 cups all-purpose flour (spooned and leveled), plus more for pan 

@@ -5,6 +5,9 @@ source_url:
 yield: 
 active_time: 
 total_time: 
+tags:
+  - american
+  - entrees
 ingredients:
 instructions: |-
   **Night Before** 

@@ -8,6 +8,7 @@ active_time:
 total_time: 
 tags: 
   - american
+  - dessert
 image: /uploads/chocolateChipZucchiniBread.jpg
 ingredients: |-
   * 1 cup all purpose flour (I used unbleached) 

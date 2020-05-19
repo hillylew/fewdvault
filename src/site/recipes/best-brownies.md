@@ -5,6 +5,8 @@ source_url: http://allrecipes.com/recipe/10549/best-brownies/
 yield: 16 servings
 active_time: 25 minutes
 total_time: 
+tags: 
+  - dessert
 image: /uploads/bestBrownies.jpg
 ingredients: |-
   * 1/2 cup butter 

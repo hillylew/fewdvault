@@ -7,6 +7,7 @@ active_time: 10 min
 total_time: 10 min
 tags: 
   - appetizers
+  - greek
   - veg
 image: /uploads/greekDip.jpg
 ingredients: |-

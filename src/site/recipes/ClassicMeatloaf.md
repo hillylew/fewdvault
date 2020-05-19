@@ -6,6 +6,9 @@ source_url: http://www.simplyrecipes.com/recipes/classic_meatloaf/
 yield: Serves 4 to 6, with plenty for leftovers for meatloaf sandwiches.
 active_time: 20 minutes
 total_time: 
+tags:
+  - american
+  - entrees
 image: /uploads/classicMeatloaf.jpg
 ingredients: |-
   * 2 Tbsp unsalted butter

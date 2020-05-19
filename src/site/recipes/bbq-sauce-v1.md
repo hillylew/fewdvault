@@ -5,6 +5,8 @@ source_url:
 yield: 1.5 quarts
 active_time: 
 total_time: 
+tags:
+  - condiments
 ingredients: |-
   * 1 quart pork broth (homemade, lots of fat) 
   * 1 12oz can of tomato paste 

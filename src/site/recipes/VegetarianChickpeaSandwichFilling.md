@@ -9,6 +9,7 @@ total_time: 20 Min
 tags: 
   - american
   - veg
+  - entrees
 image: /uploads/chickpeaSandwichFilling.jpg
 ingredients: |-
   * 1 (19 ounce) can garbanzo beans, drained and rinsed 

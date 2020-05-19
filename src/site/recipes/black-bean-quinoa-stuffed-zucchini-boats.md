@@ -8,6 +8,7 @@ total_time: 40
 tags:
   - italian
   - veg
+  - entrees
 image: /uploads/zucchiniBoats.jpg
 ingredients: |-
   * 1 huge zucchini or 3-4 normal ones 

@@ -8,6 +8,7 @@ total_time:
 tags: 
   - american
   - veg
+  - sides
 image: /uploads/whiteBeanSalad.jpg
 ingredients: |-
   * 2 cans (15 1/2 ounces each) cannellini beans, drained and rinsed 

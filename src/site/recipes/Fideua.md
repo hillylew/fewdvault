@@ -8,6 +8,7 @@ active_time:
 total_time: 
 tags: 
   - veg
+  - mexican
 image: /uploads/fideua.jpg
 ingredients: |-
   * 2 Tbs. olive oil, divided 

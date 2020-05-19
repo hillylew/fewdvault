@@ -7,6 +7,7 @@ yield: 6 servings
 active_time: 25 minutes
 total_time: 1 hour 25 minutes
 tags: 
+  - american
   - dessert
 ingredients: |-
   **For the topping**

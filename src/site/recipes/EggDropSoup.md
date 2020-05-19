@@ -6,6 +6,9 @@ source_url:
 yield: 5 cups
 active_time: 10 mins
 total_time: 
+tags:
+  - asian
+  - soups
 ingredients: |-
   * 1 quart chicken stock 
   * 1 tbsp cornstarch 

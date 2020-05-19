@@ -7,6 +7,7 @@ active_time: 50 minutes
 total_time: 
 tags: 
   - italian
+  - entrees
 image: /uploads/ArtichokeLasagna.jpg
 ingredients: |-
   * 9 sheets lasagna noodles, dry 

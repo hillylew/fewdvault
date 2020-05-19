@@ -6,6 +6,8 @@ source_url: http://www.bettycrocker.com/recipes/soft-molasses-cookies/4e20528d-5
 yield: 36
 active_time: 
 total_time: 
+tags:
+  - dessert
 ingredients: |-
   * 1 cup packed brown sugar 
   * 3/4 cup shortening 

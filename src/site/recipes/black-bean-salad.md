@@ -9,6 +9,7 @@ tags:
   - american
   - mexican
   - veg
+  - sides
 image: /uploads/blackBeanSalad.jpg
 ingredients: |-
   **Dressing**

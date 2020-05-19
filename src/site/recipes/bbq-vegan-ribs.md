@@ -7,6 +7,7 @@ active_time: 10
 total_time: 45
 tags: 
   - veg
+  - entrees
 ingredients: |-
   * 1 cup vital wheat gluten 
   * 2 teaspoons smoked Spanish paprika 

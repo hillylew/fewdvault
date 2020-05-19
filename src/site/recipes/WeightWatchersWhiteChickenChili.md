@@ -8,6 +8,7 @@ active_time: 20
 total_time: 60
 tags: 
   - mexican
+  - soups
 ingredients: |-
   * 4 Chicken breasts 
   * 2 48oz jars White Northern beans 
