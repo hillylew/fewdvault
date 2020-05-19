@@ -1,10 +1,7 @@
 ---
 title: Caesar Salad Dressing
-source:
-source_url:
-yield:
-active_time:
-total_time:
+tags:
+  - condiments
 ingredients: |-
   * 4 garlic cloves, minced 
   * 4 whole anchovies fillets 
@@ -17,6 +14,6 @@ ingredients: |-
   * 1/2 cup freshly grated Parmesan 
   * 1/2 teaspoon salt 
   * 1/2 teaspoon freshly ground black pepper 
-instructions: |-
-  * Combine in bullet and blend until smooth. Add more vinegar if too thick. 
+instructions: '* Combine in bullet and blend until smooth. Add more vinegar if too thick. '
 ---
+
