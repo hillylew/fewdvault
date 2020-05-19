@@ -6,7 +6,8 @@ source_url: https://www.theguardian.com/lifeandstyle/wordofmouth/2017/mar/23/how
 yield: 8
 active_time: 30
 total_time: 60
-tags: dessert
+tags: 
+  - dessert
 ingredients: |-
   * 50 g butter 
   * 130 g plain flour, sifted 

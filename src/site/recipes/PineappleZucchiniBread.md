@@ -6,7 +6,10 @@ source_url:
 yield: 2 loaves
 active_time: 30 minutes
 total_time: 90 minutes
-tags: ['american', 'breakfast', 'dessert']
+tags: 
+  - american
+  - breakfast
+  - dessert
 ingredients: |-
   * 3 eggs 
   * 1 cup vegetable oil 

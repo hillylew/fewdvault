@@ -5,7 +5,8 @@ source_url: http://spoonmatters.blogspot.com/2011/02/whole-wheat-low-fat-banana-
 yield: 12 muffins
 active_time: 20
 total_time: 45
-tags: breakfast
+tags: 
+  - breakfast
 image: /uploads/LFBananaBraMuffin.jpg
 ingredients: |-
   * 1/4 cup applesauce, unsweetened 

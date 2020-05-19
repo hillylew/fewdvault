@@ -6,7 +6,8 @@ source_url:
 yield: 
 active_time: 
 total_time: 
-tags: american
+tags: 
+  - american
 ingredients: |-
   **pie pastry** 
   * 1 cups all purpose flour 

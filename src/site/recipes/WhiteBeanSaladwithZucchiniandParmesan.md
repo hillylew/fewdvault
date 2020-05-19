@@ -5,7 +5,9 @@ source_url: http://www.marthastewart.com/336476/white-bean-salad-with-zucchini-a
 yield: Serves 4
 active_time: 
 total_time: 
-tags: ['american', 'veg']
+tags: 
+  - american
+  - veg
 image: /uploads/whiteBeanSalad.jpg
 ingredients: |-
   * 2 cans (15 1/2 ounces each) cannellini beans, drained and rinsed 

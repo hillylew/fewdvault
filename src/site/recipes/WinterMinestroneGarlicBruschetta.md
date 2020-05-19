@@ -6,7 +6,9 @@ source_url: http://www.cravebyrandomhouse.ca/2012/10/30/winter-minestrone-garlic
 yield: 
 active_time: 
 total_time: 
-tags: ['italian', 'soups']
+tags: 
+  - italian
+  - soups
 image: /uploads/winterMinestrone.jpg
 ingredients: |-
   **Minestrone** 

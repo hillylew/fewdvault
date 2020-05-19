@@ -6,7 +6,8 @@ source_url: https://www.noracooks.com/the-best-vegan-cornbread/
 yield: 12 slices
 active_time: 10 minutes
 total_time: 25 minutes
-tags: american
+tags: 
+  - american
 ingredients: |-
   * 1 1/4 cups all purpose flour 
   * 1 cup yellow corn meal 

@@ -5,7 +5,9 @@ source_url: http://www.marthastewart.com/314093/greek-style-quinoa-burgers
 yield: Serves 4
 active_time: 35 minutes
 total_time: 35 minutes
-tags: greek, veg
+tags: 
+  - greek
+  - veg
 image: /uploads/greekQuinoaBurger.jpg
 ingredients: |-
   * 1/2 cup rinsed quinoa 

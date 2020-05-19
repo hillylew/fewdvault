@@ -6,7 +6,10 @@ source_url: http://www.marthastewart.com/336692/tortilla-and-black-bean-pie
 yield: Serves 6
 active_time: 
 total_time: 
-tags: ['american', 'mexican', 'veg']
+tags: 
+  - american
+  - mexican
+  - veg
 image: /uploads/tortillaPie.jpg
 ingredients: |-
   * 4 flour tortillas (10 inches) 

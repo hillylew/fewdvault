@@ -5,7 +5,8 @@ source_url: http://www.vegetariantimes.com/recipes/11720
 yield: Serves 6
 active_time: 
 total_time: 
-tags: asian
+tags: 
+  - asian
 image: /uploads/garlicFriedRice.jpg
 ingredients: |-
   * 4 large eggs 

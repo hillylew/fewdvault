@@ -6,7 +6,8 @@ source_url: https://www.chowhound.com/recipes/easy-peach-crisp-30798
 yield: 6 servings
 active_time: 25 minutes
 total_time: 1 hour 25 minutes
-tags: dessert
+tags: 
+  - dessert
 ingredients: |-
   **For the topping**
   * 3/4 cup packed light brown sugar 

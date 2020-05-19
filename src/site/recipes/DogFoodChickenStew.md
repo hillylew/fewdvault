@@ -7,7 +7,8 @@ source_url: http://happyandyummy.com/scoobys-stew-dogs/
 yield: 4.5 quarts
 active_time: 5 minutes
 total_time: 6 hours
-tags: pets
+tags: 
+  - pets
 ingredients: |-
   * 2 1/2 cups water 
   * 1 cup brown rice 

@@ -5,7 +5,9 @@ source_url: http://allrecipes.com/recipe/vegetarian-sweet-and-sour-meatballs/
 yield: 5 servings
 active_time: 15 Min
 total_time: 55 Min
-tags: ['american', 'veg']
+tags: 
+  - american
+  - veg
 image: /uploads/sweetSourMeatballs.jpg
 ingredients: |-
   **Meatballs** 

@@ -5,7 +5,9 @@ source_url: http://www.myrecipes.com/recipe/vegetarian-taquitos-10000001611702/
 yield: 8 servings (serving size is 2 taquitos)
 active_time: 
 total_time: 
-tags: ['mexican', 'veg']
+tags: 
+  - mexican
+  - veg
 image: /uploads/vegTaquitos.jpg
 ingredients: |-
   * 1 teaspoon canola oil 

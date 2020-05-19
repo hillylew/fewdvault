@@ -5,7 +5,8 @@ source_url:
 yield: 
 active_time: 10 minutes
 total_time: 45 minutes
-tags: pets
+tags: 
+  - pets
 ingredients: |-
   * 2 cup cornmeal 
   * 1 cup whole wheat flour 

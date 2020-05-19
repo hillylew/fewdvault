@@ -9,7 +9,8 @@ active_time: 10 minutes
 total_time: 55 minutes
 image: /uploads/White-Chocolate-Raspberry-Bundt-Cake.jpg
 favorite: true
-tags: dessert
+tags: 
+  - dessert
 ingredients: |-
   * 1 box white cake mix (15.25 ounces) 3.4 ounces instant white chocolate
   pudding mix (dry)

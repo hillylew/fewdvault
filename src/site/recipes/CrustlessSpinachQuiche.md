@@ -6,7 +6,9 @@ source_url:
 yield: 9
 active_time: 10
 total_time: 60
-tags: breakfast, veg
+tags: 
+  - breakfast
+  - veg
 image: /uploads/quiche.jpg
 ingredients: |-
   * 1 onion 

@@ -6,7 +6,8 @@ source_url:
 yield: 6 quart jars
 active_time: 
 total_time: 
-tags: condiments
+tags: 
+  - condiments
 ingredients: |-
   * 2.5 cups white vinegar 
   * 9.5 cups water 

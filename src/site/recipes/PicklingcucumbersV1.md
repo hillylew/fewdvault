@@ -6,7 +6,8 @@ source_url:
 yield: 3 quarts 
 active_time: 
 total_time: 
-tags: condiments
+tags: 
+  - condiments
 ingredients: |-
   * Cucumbers 
   * 3 quart jars 

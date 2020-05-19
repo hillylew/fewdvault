@@ -9,7 +9,9 @@ active_time: 30 minutes
 total_time: 1 hour 30 minutes
 image: /uploads/WaffleCrumbCake.jpg
 favorite: true
-tags: 'dessert, breakfast'
+tags: 
+  - dessert
+  - breakfast
 ingredients: |-
   **Cake Batter**
 

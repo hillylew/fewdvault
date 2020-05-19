@@ -5,7 +5,8 @@ source_url:
 yield: 1
 active_time: 
 total_time: 
-tags: drinks
+tags:
+  - drinks
 ingredients: |-
   * 1 oz Orange Rum (Cruzan) 
   * 1 oz Banana Rum (Cruzan) 

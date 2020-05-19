@@ -5,7 +5,8 @@ source_url: http://www.thekitchn.com/how-to-make-classic-greek-vinaigrette-24261
 yield: 6 servings
 active_time: 5 minutes
 total_time:
-tags: greek
+tags: 
+  - greek
 ingredients: |-
   * 2 tablespoons red wine vinegar 
   * 2 tablespoons freshly squeezed lemon juice (from 1/2 medium lemon) 

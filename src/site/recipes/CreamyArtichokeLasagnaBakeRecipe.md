@@ -5,7 +5,8 @@ source_url: http://www.foodrepublic.com/2011/12/06/creamy-artichoke-lasagna-bake
 yield: 12
 active_time: 50 minutes
 total_time: 
-tags: italian
+tags: 
+  - italian
 image: /uploads/ArtichokeLasagna.jpg
 ingredients: |-
   * 9 sheets lasagna noodles, dry 

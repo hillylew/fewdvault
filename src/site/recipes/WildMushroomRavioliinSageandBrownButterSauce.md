@@ -5,7 +5,9 @@ source_url: http://www.vegetariantimes.com/recipes/11175
 yield: Serves 5
 active_time: 
 total_time: 
-tags: ['italian', 'veg']
+tags: 
+  - italian
+  - veg
 image: /uploads/mushroomRavioli.jpg
 ingredients: |-
   * 1 Tbs. olive oil 

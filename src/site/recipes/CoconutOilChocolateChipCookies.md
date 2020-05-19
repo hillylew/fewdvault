@@ -6,7 +6,8 @@ source_url: http://chefsavvy.com/recipes/coconut-oil-chocolate-chip-cookies/
 yield: 12 cookies
 active_time: 15
 total_time: 25
-tags: dessert
+tags: 
+  - dessert
 ingredients: |-
   * 1/2 cup coconut oil (not melted) 
   * 1/2 cup light brown sugar 

@@ -6,7 +6,8 @@ source_url: http://www.maryquitecontrarybakes.com/2011/05/strawberry-glazed-doug
 yield: 9
 active_time: 
 total_time: 
-tags: dessert
+tags: 
+  - dessert
 ingredients: |-
   **Doughnuts** 
   * 1 cup flour 

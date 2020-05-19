@@ -6,7 +6,9 @@ source_url: http://allrecipes.com/recipe/vegetarian-chickpea-sandwich-filling/de
 yield: 2 to 3 servings
 active_time: 20 Min
 total_time: 20 Min
-tags: ['american', 'veg']
+tags: 
+  - american
+  - veg
 image: /uploads/chickpeaSandwichFilling.jpg
 ingredients: |-
   * 1 (19 ounce) can garbanzo beans, drained and rinsed 

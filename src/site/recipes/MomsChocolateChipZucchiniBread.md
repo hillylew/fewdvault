@@ -6,7 +6,9 @@ source_url:
 yield: 2 loaves
 active_time: 50 minutes
 total_time: 1 hour 50 minutes
-tags: ['breakfast', 'dessert']
+tags: 
+  - breakfast
+  - dessert
 ingredients: |-
   * 3/4 cup butter 
   * 2 cups sugar 

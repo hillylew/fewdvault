@@ -6,7 +6,8 @@ source_url: http://allrecipes.com/recipe/22180/waffles-i/
 yield: 16
 active_time: 5 minutes
 total_time: 40 minutes
-tags: breakfast
+tags: 
+  - breakfast
 ingredients: |-
   * 2 eggs 
   * 2 cups all-purpose flour 

@@ -6,7 +6,8 @@ source_url:
 yield: 10 1/2 cup servings 
 active_time: 10 minutes
 total_time: 30 minutes
-tags: dessert
+tags: 
+  - dessert
 ingredients: |-
   **Vanilla Ice Cream**
   * 1 cup whole milk 

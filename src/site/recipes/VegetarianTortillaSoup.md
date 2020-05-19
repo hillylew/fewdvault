@@ -5,7 +5,9 @@ source_url: http://allrecipes.com/recipe/vegetarian-tortilla-soup/
 yield: 12 servings
 active_time: 15 Min
 total_time: 55 Min
-tags: mexican, veg
+tags: 
+  - mexican
+  - veg
 image: /uploads/vegTortillaSoup.jpg
 ingredients: |-
   * 2 tablespoons vegetable oil 

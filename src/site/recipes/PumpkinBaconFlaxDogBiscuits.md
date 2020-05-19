@@ -6,7 +6,8 @@ source_url: https://adventuresincooking.com/pumpkin-bacon-flax-dog-biscuits-tuna
 yield: 30 pieces
 active_time: 20 minutes
 total_time: 60 minutes 
-tags: pets
+tags: 
+  - pets
 image: /uploads/PumpkinBaconFlaxDogBiscuits.jpg
 ingredients: |-
   * 1 1/2 cups oat flour 

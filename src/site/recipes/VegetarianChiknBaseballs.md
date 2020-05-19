@@ -6,7 +6,11 @@ source_url: http://under400.tumblr.com/post/10939803303/via-food-com-i-believe-v
 yield: 15 baseballs
 active_time: 
 total_time: 
-tags: ['american', 'italian', 'asian', 'veg']
+tags: 
+  - american
+  - italian
+  - asian
+  - veg
 image: /uploads/baseballs.jpg
 ingredients: |-
   * 1/2 cup chopped onions 

@@ -6,7 +6,9 @@ source_url: http://www.skinnytaste.com/2010/02/spinach-lasagna-rolls.html
 yield: 
 active_time: 
 total_time: 
-tags: ['italian', 'veg']
+tags: 
+  - italian
+  - veg
 image: /uploads/lasagnaRolls.jpg
 ingredients: |-
   * 9 lasagna noodles, cooked 

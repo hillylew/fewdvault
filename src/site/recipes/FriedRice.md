@@ -6,7 +6,8 @@ source_url: http://life-as-a-lofthouse.blogspot.com/2010/09/baked-sweet-and-sour
 yield: 4 servings
 active_time: 
 total_time: 
-tags: asian
+tags: 
+  - asian
 image: /uploads/friedRice.jpg
 ingredients: |-
   * 3 cups cooked white rice (day old or leftover rice works best!) 

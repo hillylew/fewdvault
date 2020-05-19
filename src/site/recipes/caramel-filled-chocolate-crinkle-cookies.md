@@ -8,7 +8,8 @@ active_time: 40 minutes
 total_time: 1 hour
 image: /uploads/CaramelCrinkleCookies.jpg
 favorite: true
-tags: dessert
+tags: 
+  - dessert
 ingredients: |-
   * 1/2 cup Butter
 

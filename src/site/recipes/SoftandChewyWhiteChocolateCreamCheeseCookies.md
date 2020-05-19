@@ -6,7 +6,8 @@ source_url: https://www.averiecooks.com/soft-and-chewy-white-chocolate-cream-che
 yield: 24
 active_time: 10 minutes
 total_time: 4 hours
-tags: dessert
+tags: 
+  - dessert
 ingredients: |-
   * 1/2 cup (1 stick) unsalted butter, softened 
   * 2 ounces cream cheese, softened (use cream cheese in a block) 

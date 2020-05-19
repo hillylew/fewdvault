@@ -6,7 +6,8 @@ source_url: http://collectingmemoriess.blogspot.com/2015/01/chocolate-crinkle-co
 yield: 50
 active_time: 40 minutes
 total_time: 5 hours
-tags: dessert
+tags: 
+  - dessert
 ingredients: |-
   * 1 cup unsweetened cocoa powder 
   * 2 cups white sugar 

@@ -6,7 +6,8 @@ source_url: https://www.shugarysweets.com/orange-creamsicle-fudge/
 yield: 64 pieces
 active_time: 20 minutes
 total_time: 3 hours
-tags: dessert
+tags: 
+  - dessert
 ingredients: |-
   * 2 cups granulated sugar 
   * 3/4 cup heavy cream 

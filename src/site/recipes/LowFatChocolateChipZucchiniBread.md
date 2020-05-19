@@ -6,7 +6,8 @@ source_url: http://www.skinnytaste.com/2011/07/low-fat-chocolate-chip-zucchini-b
 yield: 16
 active_time: 
 total_time: 
-tags: american
+tags: 
+  - american
 image: /uploads/chocolateChipZucchiniBread.jpg
 ingredients: |-
   * 1 cup all purpose flour (I used unbleached) 

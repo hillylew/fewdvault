@@ -6,7 +6,8 @@ source_url: http://allrecipes.com/recipe/low-fat-blueberry-bran-muffins/
 yield: 12 muffins
 active_time: 15 Min
 total_time: 35 Min
-tags: breakfast
+tags: 
+  - breakfast
 image: /uploads/blueberryBranMuffins.jpg
 ingredients: |-
   * 1 1/2 cups wheat bran 

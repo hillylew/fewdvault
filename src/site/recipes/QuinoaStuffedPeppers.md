@@ -5,7 +5,9 @@ source_url: http://www.vegetariantimes.com/recipes/10896?section=
 yield: Serves 8
 active_time: 
 total_time: 
-tags: ['american', 'veg']
+tags: 
+  - american
+  - veg
 image: /uploads/QuinoaStuffedPeppers.jpg
 ingredients: |-
   * 1 medium onion, finely chopped (1 cup) 

@@ -8,7 +8,9 @@ active_time: 10 minutes
 total_time: 10 minutes
 image: /uploads/Coffee-Nice-Cream.jpg
 favorite: true
-tags: 'dessert, veg'
+tags: 
+  - dessert
+  - veg
 ingredients: |-
   * 2 large frozen, very ripe bananas
   * 1/4-1/2 cup milk or milk substitute (whole milk is great)

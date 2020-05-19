@@ -6,7 +6,8 @@ source_url: http://sallysbakingaddiction.com/2013/03/19/easy-homemade-funfetti-c
 yield: 10 slices
 active_time: 
 total_time: 
-tags: dessert
+tags: 
+  - dessert
 ingredients: |-
   **Cake**
   * 1 2/3 cup all-purpose flour, careful not to overmeasure 

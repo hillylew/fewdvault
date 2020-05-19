@@ -5,7 +5,8 @@ source_url: "https://www.bettycrocker.com/recipes/classic-peanut-butter-blossom-
 yield: 36
 active_time: 60
 total_time: 60
-tags: dessert
+tags: 
+  - dessert
 ingredients: |-
   * 1/2 cup granulated sugar 
   * 1/2 cup packed brown sugar 

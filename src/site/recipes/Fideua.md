@@ -6,7 +6,8 @@ source_url: http://www.vegetariantimes.com/recipe/fideua/?utm_source=Vegetarian&
 yield: Serves 8
 active_time: 
 total_time: 
-tags: veg
+tags: 
+  - veg
 image: /uploads/fideua.jpg
 ingredients: |-
   * 2 Tbs. olive oil, divided 

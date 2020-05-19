@@ -5,7 +5,8 @@ source_url:
 yield: 6
 active_time: 
 total_time: 30
-tags: american
+tags: 
+  - american
 ingredients: |-
   * 1 package of stuffing (~2 C) 
   * 1 can of soup (chicken corn chowder) 

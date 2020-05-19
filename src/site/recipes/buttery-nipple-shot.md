@@ -5,7 +5,8 @@ source_url:
 yield: 
 active_time: 
 total_time: 
-tags: drinks
+tags: 
+  - drinks
 ingredients: |-
   * 1 oz Buttershots liqueur 
   * 1/2 oz Irish Cream liqueur 

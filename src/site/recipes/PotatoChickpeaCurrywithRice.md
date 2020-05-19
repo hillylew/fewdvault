@@ -5,7 +5,9 @@ source_url: http://www.vegetariantimes.com/recipes/10375?section=
 yield: Serves 8
 active_time: 
 total_time: 
-tags: ['indian', 'veg']
+tags: 
+  - indian
+  - veg
 image: /uploads/potatoChickpeaCurry.jpg
 ingredients: |-
   * 3 cups jasmine rice 

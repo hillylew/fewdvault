@@ -6,7 +6,8 @@ source_url: https://www.delish.com/cooking/recipe-ideas/recipes/a49360/snickerdo
 yield: 16
 active_time: 10 minutes
 total_time: 45 minutes
-tags: dessert
+tags: 
+  - dessert
 image: /uploads/snickerdoodleBlondies.jpg
 ingredients: |-
   * 1 1/2 sticks butter, softened 

@@ -6,7 +6,8 @@ source_url: https://www.bettycrocker.com/recipes/classic-pumpkin-pie/62ee2150-fe
 yield: 8 servings
 active_time: 25 minutes
 total_time: 6 hours 45 minutes
-tags: dessert
+tags: 
+  - dessert
 ingredients: |-
   **Pie Crust**
   * 1 cup Gold Medal™ all-purpose flour 

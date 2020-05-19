@@ -7,7 +7,8 @@ source_url: https://damndelicious.net/2015/05/13/easy-crockpot-dog-food/
 yield: 5.5 quarts
 active_time: 5 minutes
 total_time: 6 hours
-tags: pets
+tags: 
+  - pets
 ingredients: |-
   * 2 1/2 pounds ground beef 
   * 1 1/2 cups brown rice 

@@ -5,7 +5,8 @@ source_url: https://www.keyingredient.com/recipes/411755332/bbq-vegan-ribs/
 yield: 16 pieces
 active_time: 10
 total_time: 45
-tags: veg
+tags: 
+  - veg
 ingredients: |-
   * 1 cup vital wheat gluten 
   * 2 teaspoons smoked Spanish paprika 

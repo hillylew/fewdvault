@@ -6,7 +6,9 @@ source_url: http://www.kayotic.nl/blog/tomato-mascarpone-pasta
 yield: 5 servings
 active_time: 
 total_time: 45 minutes
-tags: ['italian', 'veg']
+tags: 
+  - italian
+  - veg
 image: /uploads/tomatoMascarponePasta.jpg
 ingredients: |-
   **Pasta** 

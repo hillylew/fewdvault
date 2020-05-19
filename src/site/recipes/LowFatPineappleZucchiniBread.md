@@ -5,7 +5,8 @@ source_url: http://www.yummly.com/recipe/Healthier-Zucchini-Bread-Recipezaar_1
 yield: 16
 active_time: 15
 total_time: 90
-tags: american
+tags: 
+  - american
 image: /uploads/LFPineappleZucchiniBread.jpg
 ingredients: |-
   * 2 1/2 cups zucchini (grated) 

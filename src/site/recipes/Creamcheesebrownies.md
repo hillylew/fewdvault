@@ -6,7 +6,8 @@ source_url:
 yield: 
 active_time: 
 total_time: 
-tags: dessert
+tags: 
+  - dessert
 ingredients: |-
   **brownies**   
   * 1 cup sugar 

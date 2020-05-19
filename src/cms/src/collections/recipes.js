@@ -57,7 +57,8 @@ export const recipes = {
     {
       label: "Categories",
       name: "tags",
-      widget: "string",
+      widget: "list",
+      allow_add: true,
       required: false
     },
     {

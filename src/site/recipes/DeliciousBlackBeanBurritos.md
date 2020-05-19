@@ -5,7 +5,9 @@ source_url: http://allrecipes.com/recipe/delicious-black-bean-burritos/detail.as
 yield: 2 large burritos
 active_time: 10 Min
 total_time: 25 Min
-tags: mexican, veg
+tags: 
+  - mexican
+  - veg
 image: /uploads/blackBeanBurritos.jpg
 ingredients: |-
   * 2 (10 inch) flour tortillas 

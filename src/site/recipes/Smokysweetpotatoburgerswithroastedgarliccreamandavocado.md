@@ -6,7 +6,8 @@ source_url: http://www.howsweeteats.com/2012/09/smoky-sweet-potato-burgers-with-
 yield: 
 active_time: 
 total_time: 
-tags: entrees
+tags: 
+  - entrees
 image: /uploads/sweetPotatoBurgers.jpg
 ingredients: |-
   * 2 cups coarsely mashed sweet potatoes (or yams), about 2 large potatoes 

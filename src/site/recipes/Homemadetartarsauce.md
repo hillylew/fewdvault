@@ -6,7 +6,8 @@ source_url:
 yield: 
 active_time: 
 total_time: 
-tags: condiments
+tags: 
+  - condiments
 ingredients: |-
   * 1 cup mayo 
   * Salt and pepper 

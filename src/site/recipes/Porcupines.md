@@ -6,7 +6,8 @@ source_url:
 yield: 12 meatballs 
 active_time: 
 total_time: 
-tags: american
+tags: 
+  - american
 ingredients: |-
   * 1 pound hamburger 
   * 1/2 cup uncooked white rice 

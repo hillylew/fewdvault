@@ -6,7 +6,9 @@ source_url: http://sassynation.tumblr.com/post/22455902926/sassy-nation-exclusiv
 yield: 8-10
 active_time: 20
 total_time: 40
-tags: ['mexican', 'veg']
+tags: 
+  - mexican
+  - veg
 image: /uploads/vegChikEnchiladas.jpg
 ingredients: |-
   * 8 soft taco size spinach tortillas (or corn, your preference. I use what’s on hand) 

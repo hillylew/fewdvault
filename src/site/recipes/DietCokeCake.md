@@ -5,7 +5,8 @@ source_url:
 yield: 12
 active_time: 
 total_time: 45
-tags: dessert
+tags: 
+  - dessert
 ingredients: |-
   **Cake**
   * 10 to 12 oz diet soda 
