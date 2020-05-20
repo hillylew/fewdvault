@@ -21,9 +21,9 @@ ingredients: |-
   * 1 tsp baking soda 
   * 1 cup pineapple (drained crushed) 
 instructions: |-
-  * Mix together applesauce, eggs, sugar and vanilla. 
-  * Add flours, baking powder, and baking soda. Mix well. 
-  * Add pineapple and zucchini and mix until combined. 
-  * Pour into greased bread pans. 
-  * Bake for 60 minutes at 350. 
+  1. Mix together applesauce, eggs, sugar and vanilla. 
+  2. Add flours, baking powder, and baking soda. Mix well. 
+  3. Add pineapple and zucchini and mix until combined. 
+  4. Pour into greased bread pans. 
+  5. Bake for 60 minutes at 350. 
 ---

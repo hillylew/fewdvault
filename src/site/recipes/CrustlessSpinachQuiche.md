@@ -20,9 +20,9 @@ ingredients: |-
   * 1/2 cup milk 
   * salt and pepper
 instructions: |-
-  * Preheat the oven to 350 degrees. 
-  * Chop and sauteed onions and garlic. Add spinach and keep over heat until all moisture has evaporated. 
-  * Meanwhile, beat the eggs with milk and season with salt and pepper. Mix in cheese and spinach mixture. 
-  * Pour into a greased 8" x8" baking pan, or pie plate. Cook for 35-50 minutes or until egg is set and corners are browned.
+  1. Preheat the oven to 350 degrees. 
+  2. Chop and sauteed onions and garlic. Add spinach and keep over heat until all moisture has evaporated. 
+  3. Meanwhile, beat the eggs with milk and season with salt and pepper. Mix in cheese and spinach mixture. 
+  4. Pour into a greased 8" x8" baking pan, or pie plate. Cook for 35-50 minutes or until egg is set and corners are browned.
 notes: Can pre-cook and drain a package of pork sausage to replace the spinach in a meat version.
 ---

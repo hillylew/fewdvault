@@ -25,8 +25,8 @@ ingredients: |-
   * 4 pitas (each 6 inches) 
   * 1/2 English cucumber, thinly sliced diagonally 
 instructions: |-
-  * In a small saucepan, bring 3/4 cup water to a boil; add quiona, cover, and reduce heat to low. Cook until liquid is absorbed, 12 to 14 minutes; set aside. 
-  * In a food processor, pulse carrot until finely chopped. Add cooked quinoa, half the scallions, beans, breadcrumbs, egg, cumin, 1 teaspoon salt, and 1/4 teaspoon pepper; pulse until combined but still slightly chunky. 
-  * Form mixture into four 3/4-inch-thick paties (dip hands in water to prevent sticking). If too soft, refrigerate 10 minutes to firm. In a large nonstick skillet, heat oil over medium; cook burgers until browned and cooked through, 8 to 10 minutes per side. 
-  * Meanwhile, in a small bowl, combine yogurt, lemon juice, and the remaining scallions; season with salt and pepper. Serve burgers in pita topped with cucumber and yogurt sauce. 
+  1. In a small saucepan, bring 3/4 cup water to a boil; add quiona, cover, and reduce heat to low. Cook until liquid is absorbed, 12 to 14 minutes; set aside. 
+  2. In a food processor, pulse carrot until finely chopped. Add cooked quinoa, half the scallions, beans, breadcrumbs, egg, cumin, 1 teaspoon salt, and 1/4 teaspoon pepper; pulse until combined but still slightly chunky. 
+  3. Form mixture into four 3/4-inch-thick paties (dip hands in water to prevent sticking). If too soft, refrigerate 10 minutes to firm. In a large nonstick skillet, heat oil over medium; cook burgers until browned and cooked through, 8 to 10 minutes per side. 
+  4. Meanwhile, in a small bowl, combine yogurt, lemon juice, and the remaining scallions; season with salt and pepper. Serve burgers in pita topped with cucumber and yogurt sauce. 
 ---

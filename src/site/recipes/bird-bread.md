@@ -18,5 +18,5 @@ ingredients: |-
   * 2 eggs with shells 
   * Water as needed 
 instructions: |-
-  * Bake at 400 for 30 mins. 
+  1. Bake at 400 for 30 mins. 
 ---

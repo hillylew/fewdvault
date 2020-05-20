@@ -24,9 +24,9 @@ ingredients: |-
   * 1 egg 
   * 1/2 tsp vanilla
 instructions: |-
-  * Make brownies by creaming sugar with butter, then mixing in rest of the ingredients until smooth. 
-  * Mix cream cheese by whipping the cream cheese first, then adding the rest of the ingredients. 
-  * Spread brownie mix on a greased and floured pan, then pour cream cheese mix over it. 
-  * Run a knife through over and over to create a marble effect. 
-  * Bake in a 9"x9" pan for thick brownies (9"x13" for thin) at 350 for 35 - 40 minutes.
+  1. Make brownies by creaming sugar with butter, then mixing in rest of the ingredients until smooth. 
+  2. Mix cream cheese by whipping the cream cheese first, then adding the rest of the ingredients. 
+  3. Spread brownie mix on a greased and floured pan, then pour cream cheese mix over it. 
+  4. Run a knife through over and over to create a marble effect. 
+  5. Bake in a 9"x9" pan for thick brownies (9"x13" for thin) at 350 for 35 - 40 minutes.
 ---

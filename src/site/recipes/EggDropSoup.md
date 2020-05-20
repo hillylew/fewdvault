@@ -19,10 +19,10 @@ ingredients: |-
   * 1/2 to 2/3 tsp miso paste (optional) 
   * 1/4 cup chopped green onion (optional) 
 instructions: |-
-  * Bring chicken stock up to a boil. Dissolve cornstarch in either 2 tbsp of cold water or 2 tbsp of the chicken broth. 
-  * Season the broth to taste. This would be the time to add the ginger, soy sauce, and miso. 
-  * Once stock is at a rolling boil, add the cornstarch and boil for a couple more minutes. 
-  * Scramble the eggs. Bring the broth down to a summer and stir in a circle. While the broth is circling, slowly pour in the eggs so that they string up. 
-  * Let sit at a summer to get warm. Now is when you can add the green onions and any other additions. 
-  * Serve hot. 
+  1. Bring chicken stock up to a boil. Dissolve cornstarch in either 2 tbsp of cold water or 2 tbsp of the chicken broth. 
+  2. Season the broth to taste. This would be the time to add the ginger, soy sauce, and miso. 
+  3. Once stock is at a rolling boil, add the cornstarch and boil for a couple more minutes. 
+  4. Scramble the eggs. Bring the broth down to a summer and stir in a circle. While the broth is circling, slowly pour in the eggs so that they string up. 
+  5. Let sit at a summer to get warm. Now is when you can add the green onions and any other additions. 
+  6. Serve hot. 
 ---

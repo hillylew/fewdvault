@@ -23,10 +23,10 @@ ingredients: |-
   * 1 cup apple sauce 
   * 1 1/2 cups shredded zucchini (not packed) 
 instructions: |-
-  * Preheat oven to 325°. 
-  * Combine flour, sugar, baking soda, and salt in a large bowl. Mix well. 
-  * Add chocolate chips and gently mix to combine. 
-  * In a medium bowl, mix egg, vanilla, melted butter, apple sauce and zucchini. Add to the flour mixture and stir until just blended. 
-  * Pour batter into a large 9x5 inch loaf pan. 
-  * Bake at 325° for 45-55 minutes, or until a toothpick inserted in the center comes out clean. Cool for about 10 minutes. Remove loaf from pan and let it cool before slicing. 
+  1. Preheat oven to 325°. 
+  2. Combine flour, sugar, baking soda, and salt in a large bowl. Mix well. 
+  3. Add chocolate chips and gently mix to combine. 
+  4. In a medium bowl, mix egg, vanilla, melted butter, apple sauce and zucchini. Add to the flour mixture and stir until just blended. 
+  5. Pour batter into a large 9x5 inch loaf pan. 
+  6. Bake at 325° for 45-55 minutes, or until a toothpick inserted in the center comes out clean. Cool for about 10 minutes. Remove loaf from pan and let it cool before slicing. 
 ---

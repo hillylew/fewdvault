@@ -17,7 +17,7 @@ ingredients: |-
   * 1 1/2 cups chopped carrots 
   * 71/2 cup peas, frozen or canned 
 instructions: |-
-  * Stir in ground beef, brown rice, kidney beans, butternut squash, carrots, peas and 4 cups water into a 6-qt slow cooker. 
-  * Cover and cook on low heat for 5-6 hours or high heat for 2-3 hours, stirring as needed. 
-  * Let cool completely. 
+  1. Stir in ground beef, brown rice, kidney beans, butternut squash, carrots, peas and 4 cups water into a 6-qt slow cooker. 
+  2. Cover and cook on low heat for 5-6 hours or high heat for 2-3 hours, stirring as needed. 
+  3. Let cool completely. 
 ---

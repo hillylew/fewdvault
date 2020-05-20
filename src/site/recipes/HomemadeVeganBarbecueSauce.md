@@ -25,9 +25,9 @@ ingredients: |-
   * 1 1/2 tablespoons Sriracha 
   * salt and pepper to taste
 instructions: |-
-  * In a medium saucepan, over medium heat, mix together all of the ingredients. 
-  * Bring to a boil, then reduce heat to low and simmer 15 to 20 minutes, stirring occasionally. 
-  * Serve immediately or store in an airtight glass container.
+  1. In a medium saucepan, over medium heat, mix together all of the ingredients. 
+  2. Bring to a boil, then reduce heat to low and simmer 15 to 20 minutes, stirring occasionally. 
+  3. Serve immediately or store in an airtight glass container.
 notes: |-
   2 tablespoons is a lot for liquid smoke - adjusting this to less will change the rest of the proportions
 ---

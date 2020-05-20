@@ -25,7 +25,7 @@ ingredients: |-
   * 3 cups roughly chopped cilantro 
   * 1 small tomato, diced (optional) 
 instructions: |-
-  * Mix together dressing to taste. Add more vinegar + oil to get enough to coat all of your ingredients. 
-  * Add all other ingredients and toss the salad to coat everything well. If your container is big enough, cover and shake to get a good coating. 
-  * Chill for at least 2 hours for the flavors to meld. Taste, reseason, and toss before serving. 
+  1. Mix together dressing to taste. Add more vinegar + oil to get enough to coat all of your ingredients. 
+  2. Add all other ingredients and toss the salad to coat everything well. If your container is big enough, cover and shake to get a good coating. 
+  3. Chill for at least 2 hours for the flavors to meld. Taste, reseason, and toss before serving. 
 ---

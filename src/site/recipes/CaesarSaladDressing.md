@@ -14,6 +14,7 @@ ingredients: |-
   * 1/2 cup freshly grated Parmesan 
   * 1/2 teaspoon salt 
   * 1/2 teaspoon freshly ground black pepper 
-instructions: '* Combine in bullet and blend until smooth. Add more vinegar if too thick. '
+instructions: |-
+  1. Combine in bullet and blend until smooth. Add more vinegar if too thick.
 ---
 

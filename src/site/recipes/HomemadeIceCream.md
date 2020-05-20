@@ -23,7 +23,7 @@ ingredients: |-
   * 2 cups heavy whipping cream 
   * 1 tbsp vanilla extract 
 instructions: |-
-  * Mix all ingredients and chill mixture for at least 20 minutes, up to overnight. 
-  * Add mixture to running ice cream machine for 20 minutes. 
-  * Tastes best after being frozen overnight. 
+  1. Mix all ingredients and chill mixture for at least 20 minutes, up to overnight. 
+  2. Add mixture to running ice cream machine for 20 minutes. 
+  3. Tastes best after being frozen overnight. 
 ---

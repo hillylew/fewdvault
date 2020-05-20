@@ -16,8 +16,8 @@ ingredients: |-
   * 2 large chicken breasts, cut into 6 pieces each 
   * 2 pounds frozen mixed vegetables (corn, peas, green beans, carrots) 
 instructions: |-
-  * Place ingredients in slow cooker in order listed, covering chicken completely with vegetables 
-  * Cook 5 hours on high or 8 hours on low 
-  * Remove from slow cooker, shred chicken and stir into rice and veggie mixture until evenly distributed. 
-  * Store covered in fridge for up to three days or freeze in single-serve portions 
+  1. Place ingredients in slow cooker in order listed, covering chicken completely with vegetables 
+  2. Cook 5 hours on high or 8 hours on low 
+  3. Remove from slow cooker, shred chicken and stir into rice and veggie mixture until evenly distributed. 
+  4. Store covered in fridge for up to three days or freeze in single-serve portions 
 ---

@@ -6,7 +6,7 @@ export const config = {
   load_config_file: false,
   backend: {
     // Switch name to test-repo for local testing
-    name: "master",
+    branch: "master",
     name: "github",
     repo: "hillylew/fewdvault",
   },

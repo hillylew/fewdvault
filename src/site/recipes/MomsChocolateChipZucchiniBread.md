@@ -23,7 +23,7 @@ ingredients: |-
   * 1/2 cup chopped walnuts 
   * 1 cup chocolate chips 
 instructions: |-
-  * Cream together the butter and sugar. Add the eggs, one at a time, beating after each addition. 
-  * Combine the flour, cocoa, baking powder, soda, and cinnamon and add to the creamed mixture alternatively with the milk. Stir in the zucchini and nuts. 
-  * Pour into two greased 8 1/2 x 4 1/2 inch loaf pans and bake for 45-55 minutes or until a cake tester inserted in the center comes out clean. 
+  1. Cream together the butter and sugar. Add the eggs, one at a time, beating after each addition. 
+  2. Combine the flour, cocoa, baking powder, soda, and cinnamon and add to the creamed mixture alternatively with the milk. Stir in the zucchini and nuts. 
+  *3. Pour into two greased 8 1/2 x 4 1/2 inch loaf pans and bake for 45-55 minutes or until a cake tester inserted in the center comes out clean. 
 ---

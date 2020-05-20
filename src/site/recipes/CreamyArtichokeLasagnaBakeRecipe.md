@@ -24,16 +24,16 @@ ingredients: |-
   * 1/4 cup all-purpose flour 
   * 2 cups half-and-half or light cream 
 instructions: |-
-  * Preheat oven to 350°F. Cook lasagna noodles according to package directions; drain. Rinse with cold water; drain again. Place lasagna noodles in a single layer on a sheet of foil; set aside. 
-  * In a large saucepan heat 2 tablespoons of the oil over medium heat. Add artichokes, pine nuts and half of the garlic. Cook for 2 to 3 minutes or until artichokes are tender, stirring frequently. Transfer to a large bowl. 
-  * Stir in ricotta cheese, 1/2 cup of the Parmesan cheese, 1/2 cup of the basil, the egg and the salt. 
-  * For sauce, in a small bowl combine broth and flour. In the same saucepan heat the remaining 1 tablespoon oil over medium heat. 
-  * Add the remaining garlic; cook and stir until garlic is tender. 
-  * Stir in flour mixture and half-and-half. Cook and stir until mixture is thickened and bubbly. 
-  * Remove from heat. Stir in the remaining 1/2 cup basil. 
-  * In a small bowl combine the mozzarella cheese and the remaining 1/2 cup Parmesan cheese. 
-  * Spread about 1 cup of sauce evenly in an un greased 3-quart rectangular baking dish. 
-  * Arrange three of the cooked lasagna noodles over the sauce in dish. Spread with one-third of the artichoke mixture and one-third of the remaining sauce. Sprinkle with 1/2 cup of the mozzarella mixture. 
-  * Repeat layers two more times, starting with the noodles and ending with mozzarella mixture. 
-  * Bake, uncovered, for 35 to 40 minutes or until edges are bubbly and top is lightly browned. Let stand for 15 minutes before serving. 
+  1. Preheat oven to 350°F. Cook lasagna noodles according to package directions; drain. Rinse with cold water; drain again. Place lasagna noodles in a single layer on a sheet of foil; set aside. 
+  2. In a large saucepan heat 2 tablespoons of the oil over medium heat. Add artichokes, pine nuts and half of the garlic. Cook for 2 to 3 minutes or until artichokes are tender, stirring frequently. Transfer to a large bowl. 
+  3. Stir in ricotta cheese, 1/2 cup of the Parmesan cheese, 1/2 cup of the basil, the egg and the salt. 
+  4. For sauce, in a small bowl combine broth and flour. In the same saucepan heat the remaining 1 tablespoon oil over medium heat. 
+  5. Add the remaining garlic; cook and stir until garlic is tender. 
+  6. Stir in flour mixture and half-and-half. Cook and stir until mixture is thickened and bubbly. 
+  7. Remove from heat. Stir in the remaining 1/2 cup basil. 
+  8. In a small bowl combine the mozzarella cheese and the remaining 1/2 cup Parmesan cheese. 
+  9. Spread about 1 cup of sauce evenly in an un greased 3-quart rectangular baking dish. 
+  10. Arrange three of the cooked lasagna noodles over the sauce in dish. Spread with one-third of the artichoke mixture and one-third of the remaining sauce. Sprinkle with 1/2 cup of the mozzarella mixture. 
+  11. Repeat layers two more times, starting with the noodles and ending with mozzarella mixture. 
+  12. Bake, uncovered, for 35 to 40 minutes or until edges are bubbly and top is lightly browned. Let stand for 15 minutes before serving. 
 ---

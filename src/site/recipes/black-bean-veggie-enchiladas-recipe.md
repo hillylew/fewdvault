@@ -24,8 +24,8 @@ ingredients: |-
   * 1/2 cup enchilada sauce 
   * 3/4 cup shredded reduced-fat Mexican cheese blend 
 instructions: |-
-  * In a large skillet, saute the onion, green pepper and mushrooms in oil until crisp-tender. Add garlic; cook 1 minute longer. Add the beans, corn, chilies, taco seasoning and cilantro; cook for 2-3 minutes or until heated through. 
-  * Spoon 1/2 cup bean mixture down the center of each tortilla. Roll up and place seam side down in a greased 13-in. x 9-in. baking dish. Top with enchilada sauce and cheese. 
-  * Bake, uncovered, at 350° for 25-30 minutes or until heated through. 
+  1. In a large skillet, saute the onion, green pepper and mushrooms in oil until crisp-tender. Add garlic; cook 1 minute longer. Add the beans, corn, chilies, taco seasoning and cilantro; cook for 2-3 minutes or until heated through. 
+  2. Spoon 1/2 cup bean mixture down the center of each tortilla. Roll up and place seam side down in a greased 13-in. x 9-in. baking dish. Top with enchilada sauce and cheese. 
+  3. Bake, uncovered, at 350° for 25-30 minutes or until heated through. 
 notes: Used a whole can of enchilada sauce and lots of colored bells peppers
 ---

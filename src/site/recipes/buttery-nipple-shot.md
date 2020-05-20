@@ -11,5 +11,5 @@ ingredients: |-
   * 1 oz Buttershots liqueur 
   * 1/2 oz Irish Cream liqueur 
 instructions: |-
-  * Pour both into a shot and sip 
+  1. Pour both into a shot and sip 
 ---

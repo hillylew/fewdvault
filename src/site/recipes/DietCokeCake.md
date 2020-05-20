@@ -19,8 +19,8 @@ ingredients: |-
   * 12oz free cool whip
   * 1 pouch pudding mix
 instructions: |-
-  * Follow box directions for cake. 
-  * Cool cake, mix pudding mix with cool whip and spread right away. Cool in fridge for frosting to set. 
+  1. Follow box directions for cake. 
+  2. Cool cake, mix pudding mix with cool whip and spread right away. Cool in fridge for frosting to set. 
 notes: |-
   **Suggested Combinations** <br>
   * yellow cake mix / diet lemon-lime soda (with a dollop of Cool Whip -- tastes like a "Twinkie")<br>

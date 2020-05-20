@@ -19,14 +19,14 @@ ingredients: |-
   * 1/4 teaspoon salt 
   * 1/2 cup semi-sweet chocolate chips 
 instructions: |-
-  * Preheat oven to 375 degrees. 
-  * Add coconut oil and both sugars to a stand mixer with the paddle attachment. 
-  * Add in vanilla and egg. Mix until combined. Make sure to scrap the sides of the bowl throughout. 
-  * Meanwhile add flour, baking soda and salt to a medium bowl. Whisk to combine. 
-  * Slowly add in the dry ingredients to the wet in two parts. 
-  * Fold in chocolate chips. 
-  * Portion out 12 cookies and chill for 30 minutes. 
-  * Place in the oven and bake for 10-12 minutes. 
-  * Allow cookies to cool for a couple of minutes before transferring them to a wire rack to cool completely. 
-  * Store in an airtight container. 
+  1. Preheat oven to 375 degrees. 
+  2. Add coconut oil and both sugars to a stand mixer with the paddle attachment. 
+  3. Add in vanilla and egg. Mix until combined. Make sure to scrap the sides of the bowl throughout. 
+  4. Meanwhile add flour, baking soda and salt to a medium bowl. Whisk to combine. 
+  5. Slowly add in the dry ingredients to the wet in two parts. 
+  6. Fold in chocolate chips. 
+  7. Portion out 12 cookies and chill for 30 minutes. 
+  8. Place in the oven and bake for 10-12 minutes. 
+  9. Allow cookies to cool for a couple of minutes before transferring them to a wire rack to cool completely. 
+  10. Store in an airtight container. 
 ---

@@ -19,10 +19,10 @@ ingredients: |-
   * 4 to 5 cups flour 
   * cornmeal (optional) 
 instructions: |-
-  * Using a Bosch or Kitchen Aid mixer, put yeast, sugar, salt, hot water, and olive oil in the mixer. 
-  * Gradually add the flour until the dough has sufficiently scraped everything off the sides of the mixing bowl. Continue to mix on low for 8-10 minutes. 
-  * Remove and cover with plastic wrap - let the dough rise until doubles in size (about 30 minutes). 
-  * Grease 2 cookie sheets and sprinkle with corn meal. Punch down the dough and make tennis ball-size dough balls (about 8-12, depending on how large you want your bread bowls). Place on cookie sheet with no more than 6 to a cookie sheet (don't let them touch).  
-  * Let them rise for another 30 minutes. Bake each cookie sheet at 400 for 18 minutes. 
+  1. Using a Bosch or Kitchen Aid mixer, put yeast, sugar, salt, hot water, and olive oil in the mixer. 
+  2. Gradually add the flour until the dough has sufficiently scraped everything off the sides of the mixing bowl. Continue to mix on low for 8-10 minutes. 
+  3. Remove and cover with plastic wrap - let the dough rise until doubles in size (about 30 minutes). 
+  4. Grease 2 cookie sheets and sprinkle with corn meal. Punch down the dough and make tennis ball-size dough balls (about 8-12, depending on how large you want your bread bowls). Place on cookie sheet with no more than 6 to a cookie sheet (don't let them touch).  
+  5. Let them rise for another 30 minutes. Bake each cookie sheet at 400 for 18 minutes. 
 notes: 11 makes them too small, probably 6-8 is just right.
 ---

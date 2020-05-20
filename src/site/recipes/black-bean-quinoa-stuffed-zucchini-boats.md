@@ -24,12 +24,12 @@ ingredients: |-
   * 1/4 cup grated Romano cheese plus more for topping 
   * salt and pepper to taste 
 instructions: |-
-  * Preheat oven to 375 degrees F. 
-  * Cut a slice off the side of the zucchini to create a large boat. Scoop out the inside of the squash leaving a shell and bake the shell in the preheated oven for 20 minutes. 
-  * Dice up some of the scooped out zucchini to use in the filling. Only use the parts that aren’t too seedy. 
-  * While the zucchini bakes, in a skillet add the onions, garlic, tomatoes, and diced excess zucchini, and cook until softened (about 5-10 minutes). 
-  * Add the spices, quinoa, beans and broth and cook for a few more minutes. 
-  * Remove from heat and mix in the Romano cheese and salt and pepper to taste. 
-  * Removes the shell(s) from the oven and stuff them all as full as possible with the mixture. 
-  * Sprinkle with Romano cheese and return to oven to bake for at least another 20 minutes or longer depending on the thickness of the zucchini boats. 
+  1. Preheat oven to 375 degrees F. 
+  2. Cut a slice off the side of the zucchini to create a large boat. Scoop out the inside of the squash leaving a shell and bake the shell in the preheated oven for 20 minutes. 
+  3. Dice up some of the scooped out zucchini to use in the filling. Only use the parts that aren’t too seedy. 
+  4. While the zucchini bakes, in a skillet add the onions, garlic, tomatoes, and diced excess zucchini, and cook until softened (about 5-10 minutes). 
+  5. Add the spices, quinoa, beans and broth and cook for a few more minutes. 
+  6. Remove from heat and mix in the Romano cheese and salt and pepper to taste. 
+  7. Removes the shell(s) from the oven and stuff them all as full as possible with the mixture. 
+  8. Sprinkle with Romano cheese and return to oven to bake for at least another 20 minutes or longer depending on the thickness of the zucchini boats. 
 ---
