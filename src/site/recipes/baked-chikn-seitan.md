@@ -20,8 +20,8 @@ ingredients: |-
   * 1 teaspoon minced garlic 
   * 1 teaspoon ginger paste or powder 
 instructions: |-
-  * Preheat oven to 350 degrees and grease an 8x8 baking dish with canola oil. Mix the dry ingredients separately from the liquid ingredients, then combine dry and wet. 
-  * Stir until a dough forms and then knead dough for 3 minutes. 
-  * Flatten into baking dish and bake for 20 minutes 
-  * Add sauce and continue baking for another 10-15 minutes. 
+  1. Preheat oven to 350 degrees and grease an 8x8 baking dish with canola oil. Mix the dry ingredients separately from the liquid ingredients, then combine dry and wet. 
+  2. Stir until a dough forms and then knead dough for 3 minutes. 
+  3. Flatten into baking dish and bake for 20 minutes 
+  4. Add sauce and continue baking for another 10-15 minutes. 
 ---

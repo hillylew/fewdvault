@@ -18,7 +18,7 @@ ingredients: |-
   * 2 Tbsp. sliced kalamata olives 
   * ATHENOS Pita Chips Original 
 instructions: |-
-  * SPREAD hummus onto bottom of 9-inch pie plate. 
-  * COVER with layers of remaining ingredients. 
-  * SERVE with chips. 
+  1. SPREAD hummus onto bottom of 9-inch pie plate. 
+  2. COVER with layers of remaining ingredients. 
+  3. SERVE with chips. 
 ---

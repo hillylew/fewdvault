@@ -20,6 +20,6 @@ ingredients: |-
   * 1 tsp vanilla 
   * 1/2 cup chopped nuts 
 instructions: |-
-  * Mix in order given and bake in greased loaf pan lined with waxed paper for 1 1/2 hours in a 300 degree oven. 
+  1. Mix in order given and bake in greased loaf pan lined with waxed paper for 1 1/2 hours in a 300 degree oven. 
 notes: For muffins, use cupcake liners and bake for 1/2 the time - yield 12 muffins.
 ---

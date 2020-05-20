@@ -23,8 +23,8 @@ ingredients: |-
   * 1/4 tsp. cayenne pepper 
   * 1 package egg roll wrappers (about 24 total) 
 instructions: |-
-  * In a large bowl, combine everything but the egg roll wrappers. Mix well to blend. 
-  * Lay an egg roll wrapper out on a work surface so that one of the corners is pointing toward you and place ¼ cup of the filling in the center. * Fold the tip closest to you up over the filling, roll a bit, then take the points pointing outward and fold them in toward the center. Continue rolling into an egg roll shape until a small part of the remaining point is still free. Dip a finger in water or beaten egg and lightly brush on the edges of the free corner. Finish rolling and press to seal closed. Repeat with the remaining wrappers and filling. 
-  * Preheat the oven to 425˚ F. Lightly oil a baking sheet with cooking spray. Place the sealed egg rolls on the baking sheet seam side down and spray the tops of the egg rolls with cooking spray. 
-  * Bake for about 15 minutes, or until lightly brown, turning halfway through baking. Serve warm with salsa. 
+  1. In a large bowl, combine everything but the egg roll wrappers. Mix well to blend. 
+  2. Lay an egg roll wrapper out on a work surface so that one of the corners is pointing toward you and place ¼ cup of the filling in the center. * Fold the tip closest to you up over the filling, roll a bit, then take the points pointing outward and fold them in toward the center. Continue rolling into an egg roll shape until a small part of the remaining point is still free. Dip a finger in water or beaten egg and lightly brush on the edges of the free corner. Finish rolling and press to seal closed. Repeat with the remaining wrappers and filling. 
+  3. Preheat the oven to 425˚ F. Lightly oil a baking sheet with cooking spray. Place the sealed egg rolls on the baking sheet seam side down and spray the tops of the egg rolls with cooking spray. 
+  4. Bake for about 15 minutes, or until lightly brown, turning halfway through baking. Serve warm with salsa. 
 ---

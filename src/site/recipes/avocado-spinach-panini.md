@@ -17,7 +17,7 @@ ingredients: |-
   * 2 cups lightly packed baby spinach 
   * 4 4-oz. ciabatta rolls, split in half 
 instructions: |-
-  * Layer avocado slices, tomatoes, onion, and 1/2  cup spinach on each roll. Spray panini with cooking spray. 
-  * Coat skillet or grill pan with cooking spray, and heat over medium heat. Place panini in pan; weight with smaller-diameter saucepan weighted with 1 or 2 cans. 
-  * Cook 2 minutes, remove weight, flip panini, replace weight, and cook 1 1/2  to 2 minutes more. (Or cook 4 minutes in panini maker.) 
+  1. Layer avocado slices, tomatoes, onion, and 1/2  cup spinach on each roll. Spray panini with cooking spray. 
+  2. Coat skillet or grill pan with cooking spray, and heat over medium heat. Place panini in pan; weight with smaller-diameter saucepan weighted with 1 or 2 cans. 
+  3. Cook 2 minutes, remove weight, flip panini, replace weight, and cook 1 1/2  to 2 minutes more. (Or cook 4 minutes in panini maker.) 
 ---

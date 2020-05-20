@@ -17,7 +17,7 @@ import { config } from "./config";
 CMS.init({ config });
 
 // Register site CSS file.
-// CMS.registerPreviewStyle("/main.css");
+CMS.registerPreviewStyle("/main.css");
 
 // Register custom previews.
 CMS.registerPreviewTemplate("recipes", RecipesPreview);
