@@ -3,9 +3,12 @@ import React from "react";
 export default class RecipesPreview extends React.Component {
   render() {
     const { entry, widgetFor } = this.props;
-    let tags = this.props.widgetsFor("tags").map(function(tag, index) {
-      return [tag.get("data")];
-    });
+    let tags = [];
+    if (entry.getIn(["data", "tags"])) {
+      tags = this.props.widgetsFor("tags").map(function(tag, index) {
+        return [tag.get("data")];
+      });
+    }
     tags = tags.join(", ");
 
     return (
