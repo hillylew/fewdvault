@@ -6,7 +6,7 @@ layout: layouts/base
   <h2 class="leading-none">{{ title }}</h2>
   <div class="flex page-top">
     {% if image %}
-      <img class="h-64 mr-6" src="{{ image}}" title="{{ title }}" />
+      <img class="h-64 mr-6 lazyload fade-in" data-src="{{ image}}" title="{{ title }}" />
     {% endif %}
     <div class="recipe-stats">
       {% if source %}

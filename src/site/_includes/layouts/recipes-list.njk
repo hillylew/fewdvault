@@ -6,7 +6,7 @@
             </a>
             <div class="lg:flex">
                 {% if recipe.data.image %}
-                    <img class="object-cover mb-4 mr-4 lg:w-32" src="{{ recipe.data.image}}" title="{{ recipe.data.title }}" />
+                    <img class="object-cover mb-4 mr-4 lazyload fade-in lg:w-32" data-src="{{ recipe.data.image}}" title="{{ recipe.data.title }}" />
                 {% endif %}
                 <div class="">
                     {% if recipe.data.source %}

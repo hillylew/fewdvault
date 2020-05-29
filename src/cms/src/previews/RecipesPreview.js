@@ -15,7 +15,7 @@ export default class RecipesPreview extends React.Component {
       <div>
         <h2 className="leading-none">{entry.getIn(["data", "title"])}</h2>
         <div className="flex page-top">
-          <img className="h-64 mr-6" src={entry.getIn(["data", "image"])} title={entry.getIn(["data", "title"])} />
+          <img className="h-64 mr-6 lazyload fade-in" data-src={entry.getIn(["data", "image"])} title={entry.getIn(["data", "title"])} />
           <div className="recipe-stats">
             <div className="text-sm uppercase">
               <a href={entry.getIn(["data", "source_url"])} className="self-end font-bold hover:underline focus:underline">{entry.getIn(["data", "source"])}</a>
