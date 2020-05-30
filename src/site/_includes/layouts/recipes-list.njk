@@ -1,18 +1,30 @@
 <div class="flex flex-wrap justify-around">
     {% for recipe in recipeslist %}
         <article class="w-full m-4 mb-8 md:w-2/5">
-            <a href="{{ recipe.url }}">
-                <h2 class="inline-block p-4 mb-0 leading-none text-white border border-b-0 recipe-title rounded-t-md bg-red border-red">{{ recipe.data.title }}</h2>
-            </a>
-            <div class="border-2 border-b-0 border-collapse shadow-xl rounded-b-md rounded-r-md recipe-card border-red">
-                <div class="p-4 lg:flex">
+            <div class="inline-block p-4 mb-0 leading-none text-white border border-b-0 rounded-t-md bg-limed-spruce border-limed-spruce">
+                {% if recipe.data.tags %}
+                    <div class="font-sans uppercase">
+                        {% set tagList = recipe.data.tags %}
+                        {% include "layouts/tags-linked.njk" %}
+                    </div>
+                {% endif %}
+            </div>
+            <div class="bg-white border shadow-xl border-silver">
+                <a href="{{ recipe.url }}">
+                    <h2 class="items-center px-4 pt-2 mb-0 font-bold leading-snug border border-t-0 border-b-2 border-l-0 border-r-0 hover:text-red text-outer-space recipe-title border-red">{{ recipe.data.title }}</h2>
+                </a>
+                <div class="p-3 recipe-card sm:flex">
                     {% if recipe.data.image %}
-                        <img class="object-cover mr-4 border rounded-full lazyload fade-in lg:h-32 border-red lg:w-32" data-src="{{ recipe.data.image}}" title="{{ recipe.data.title }}" />
+                        <img class="hidden block object-cover w-32 h-32 mb-4 border rounded-lg sm:mr-4 sm:block sm:mb-0 lazyload fade-in border-red" data-src="{{ recipe.data.image}}" title="{{ recipe.data.title }}" />
                     {% endif %}
-                    <div class="">
+                    <div class="min-h-32 text-wrapper">
                         {% if recipe.data.source %}
-                            <div class="text-sm uppercase">
-                                <a href="{{ recipe.data.source_url }}" class="self-end font-bold hover:underline focus:underline">{{ recipe.data.source }}</a>
+                            <div>
+                                {% if recipe.data.source_url %}
+                                    <span class="field-label">From: </span><a href="{{ recipe.data.source_url }}" class="self-end font-bold hover:underline focus:underline">{{ recipe.data.source }}</a>
+                                {% else %}
+                                    <span class="field-label">From: </span><span class="self-end font-bold">{{ recipe.data.source }}</span>
+                                {% endif%}
                             </div>
                         {% endif %}
                         {% if recipe.data.yield %}
@@ -29,15 +41,7 @@
                         {% endif %}
                     </div>
                 </div>
-                <div class="p-4 border recipe-cats bg-red border-red">
-                    {% if recipe.data.tags %}
-                        <div>
-                            <span class="text-white field-label">Categories: </span>
-                            {% set tagList = recipe.data.tags %}
-                            {% include "layouts/tags-linked.njk" %}
-                        </div>
-                    {% endif %}
-                </div>
+                
             </div>
         </article>
     {% endfor %}

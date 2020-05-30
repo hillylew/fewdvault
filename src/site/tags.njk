@@ -11,13 +11,13 @@ pagination:
 layout: layouts/base
 permalink: /categories/{{ tag }}/
 ---
-<main id="main">
-  <h2>Categorized “{{ tag }}”</h2>
+<main id="main" class="container mx-auto">
+  <h2 class="p-2 font-bold bg-white border shadow-lg border-silver">Categorized “{{ tag }}”</h2>
 
   {% set recipeslist = collections[ tag ] %}
   {% include "layouts/recipes-list.njk" %}
 
   <br />
-  <p>See <a href="{{ '/categories/' | url }}">all categories</a>.</p>
+  <p class="p-2 font-bold bg-white border shadow-lg border-silver">See <a href="{{ '/categories/' | url }}">all categories</a>.</p>
 
 </main>

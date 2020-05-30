@@ -18,6 +18,9 @@ module.exports = {
         "purple-pizzazz": "#ff00db",
         "light-blue": "#4da6ff",
         "white": "#ffffff"
+      },
+      minHeight: {
+        "32": "8rem",
       }
     }
   },

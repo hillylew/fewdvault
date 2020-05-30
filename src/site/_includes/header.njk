@@ -1,6 +1,7 @@
-<header class="z-10 flex items-center w-full p-4 lg:static bg-red
+<header class="z-10 w-full lg:static bg-red
   {{ "absolute" if homepage else "static" }}
   ">
+	<div class="container flex items-center mx-auto">
 
   <a href="/" class="w-16 h-16 mr-6" title="The Fewd Vault">
    <?xml version="1.0" encoding="iso-8859-1"?>
@@ -73,5 +74,6 @@
 </svg>
   </a>
 
-  <h1 class="mt-4 text-4xl text-center md:mt-0 md:text-6xl fade-in">{{ site.title }}</h1>
+  <h1 class="mt-4 font-sans text-4xl md:text-6xl fade-in">{{ site.title }}</h1>
+	</div>
 </header>

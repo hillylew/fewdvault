@@ -3,61 +3,71 @@ layout: layouts/base
 ---
 
 <main id="main" class="container mx-auto main">
-  <div class="bg-white border border-red">
-    <h2 class="p-4 leading-none bg-red">{{ title }}</h2>
-    <div class="flex p-4 page-top">
-      {% if image %}
-        <img class="h-64 mr-6 lazyload fade-in" data-src="{{ image}}" title="{{ title }}" />
-      {% endif %}
-      <div class="recipe-stats">
-        {% if source %}
-          <div class="text-sm uppercase">
-            <a href="{{ source_url }}" class="self-end font-bold hover:underline focus:underline">{{ source }}</a>
-          </div>
+  <div class="bg-white border shadow-xl border-silver">
+    <h2 class="items-center px-4 pt-4 pb-2 mb-0 font-bold leading-snug border border-t-0 border-b-2 border-l-0 border-r-0 text-outer-space recipe-title border-red">{{ title }}</h2>
+    <div class="p-3 recipe-card">
+      <div class="flex h-64 page-top">
+        {% if image %}
+          <img class="h-64 mr-6 lazyload fade-in" data-src="{{ image}}" title="{{ title }}" />
         {% endif %}
-        {% if yield %}
-          <div>
-            <span class="field-label">Yield: </span>
-            <span>{{ yield }}</span>
+        <div class="pt-1 recipe-stats">
+          {% if source %}
+            <div class="text-sm uppercase">
+              <a href="{{ source_url }}" class="self-end font-bold hover:underline focus:underline">{{ source }}</a>
+            </div>
+          {% endif %}
+          {% if yield %}
+            <div>
+              <span class="field-label">Yield: </span>
+              <span>{{ yield }}</span>
+            </div>
+          {% endif %}
+          {% if total_time %}
+            <div>
+              <span class="field-label">Total Time: </span>
+              <span>{{ total_time }}</span>
+            </div>
+          {% endif %}
+          {% if tags %}
+            <div>
+              <span class="field-label">Categories: </span>
+              {% set tagList = tags %}
+              {% include "layouts/tags-linked.njk" %}
+            </div>
+          {% endif %}
+          <div class="my-6 text-lg leading-snug content">
+            {{ content | safe }}
           </div>
-        {% endif %}
-        {% if total_time %}
-          <div>
-            <span class="field-label">Total Time: </span>
-            <span>{{ total_time }}</span>
-          </div>
-        {% endif %}
-        {% if tags %}
-          <div>
-            <span class="field-label">Categories: </span>
-            {% set tagList = tags %}
-            {% include "layouts/tags-linked.njk" %}
-          </div>
-        {% endif %}
+        </div>
       </div>
-    </div>
-    <div class="p-4">
-      <div class="my-8 text-lg content">
-        {{ content | safe }}
+      <div class="p-4">
+        <div class="flex flex-wrap mt-4">
+          {% if ingredients %}
+            <div class="w-1/2">
+              <h3>Ingredients</h3>
+              <div class="mb-5 mr-1 ingredients">
+                {{ ingredients | markdown | safe }}
+              </div>
+            </div>
+          {% endif %}
+          {% if instructions %}
+            <div class="w-1/2">
+              <h3>Instructions</h3>
+              <div class="mb-5 instructions">
+                {{ instructions | markdown | safe }}
+              </div>
+            </div>
+        {% endif %}
+        </div>
+        <div class="">
+          {% if notes %}
+            <h4 class="mb-0">Notes</h4>
+            <div class="text-sm">
+              {{ notes | markdown | safe }}
+            </div>
+          {% endif %}
+        </div>
       </div>
-      {% if ingredients %}
-        <h3>Ingredients</h3>
-        <div class="mb-8 ingredients">
-          {{ ingredients | markdown | safe }}
-        </div>
-      {% endif %}
-      {% if instructions %}
-        <h3>Instructions</h3>
-        <div class="mb-8 instructions">
-          {{ instructions | markdown | safe }}
-        </div>
-      {% endif %}
-      {% if notes %}
-        <h4>Notes</h4>
-        <div class="text-sm">
-          {{ notes | markdown | safe }}
-        </div>
-      {% endif %}
     </div>
   </div>
 </main>
