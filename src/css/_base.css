@@ -26,11 +26,29 @@
        url('../fonts/inconsolata-v18-latin-700.svg#Inconsolata') format('svg'); /* Legacy iOS */
 }
 
+body {
+  color: var(--woodsmoke);
+  background-image:
+      linear-gradient(45deg, var(--light-blue) 25%, transparent 25%),
+      linear-gradient(45deg, transparent 75%, var(--light-blue) 75%),
+      linear-gradient(45deg, transparent 75%, var(--light-blue) 75%),
+      linear-gradient(45deg, var(--light-blue) 25%, #fff 25%);    
+    background-size: 20px 20px;       
+    background-position: 0 0, 0 0, -10px -10px, 10px 10px;
+}
+
 body,
 .main {
-  font-family: "Inconsolata";
-  background-color: var(--outer-space);
-  color: var(--malachite);
+  color: var(--woodsmoke);
+}
+
+.recipe-card {
+  background-image: url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffffff&noise=5c5c5c&density=13&opacity=15);
+}
+
+.recipe-title,
+.recipe-cats {
+  background-image: url(http://api.thumbr.it/whitenoise-361x370.png?background=ffF01718&noise=5c5c5c&density=13&opacity=15);
 }
 
 .container {
@@ -40,11 +58,12 @@ body,
 
 h1 {
   font-size: 4rem;
+  color: var(--white);
 }
 
 h2 {
   margin: 0 0 2rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 h3 {
@@ -68,17 +87,17 @@ h4 {
 }
 
 a {
-  color: var(--cyan);
+  color: var(--red);
 }
 
 a:hover {
-  color: var(--chartreuse-yellow);
+  text-decoration: underline;
 }
 
 a:visited,
 a:focus,
 a:active {
-  color: (var(--purple-pizzazz);)
+  color: var(--red);
 }
 
 #main {

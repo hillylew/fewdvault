@@ -3,57 +3,61 @@ layout: layouts/base
 ---
 
 <main id="main" class="container mx-auto main">
-  <h2 class="leading-none">{{ title }}</h2>
-  <div class="flex page-top">
-    {% if image %}
-      <img class="h-64 mr-6 lazyload fade-in" data-src="{{ image}}" title="{{ title }}" />
-    {% endif %}
-    <div class="recipe-stats">
-      {% if source %}
-        <div class="text-sm uppercase">
-          <a href="{{ source_url }}" class="self-end font-bold hover:underline focus:underline">{{ source }}</a>
+  <div class="bg-white border border-red">
+    <h2 class="p-4 leading-none bg-red">{{ title }}</h2>
+    <div class="flex p-4 page-top">
+      {% if image %}
+        <img class="h-64 mr-6 lazyload fade-in" data-src="{{ image}}" title="{{ title }}" />
+      {% endif %}
+      <div class="recipe-stats">
+        {% if source %}
+          <div class="text-sm uppercase">
+            <a href="{{ source_url }}" class="self-end font-bold hover:underline focus:underline">{{ source }}</a>
+          </div>
+        {% endif %}
+        {% if yield %}
+          <div>
+            <span class="field-label">Yield: </span>
+            <span>{{ yield }}</span>
+          </div>
+        {% endif %}
+        {% if total_time %}
+          <div>
+            <span class="field-label">Total Time: </span>
+            <span>{{ total_time }}</span>
+          </div>
+        {% endif %}
+        {% if tags %}
+          <div>
+            <span class="field-label">Categories: </span>
+            {% set tagList = tags %}
+            {% include "layouts/tags-linked.njk" %}
+          </div>
+        {% endif %}
+      </div>
+    </div>
+    <div class="p-4">
+      <div class="my-8 text-lg content">
+        {{ content | safe }}
+      </div>
+      {% if ingredients %}
+        <h3>Ingredients</h3>
+        <div class="mb-8 ingredients">
+          {{ ingredients | markdown | safe }}
         </div>
       {% endif %}
-      {% if yield %}
-        <div>
-          <span class="field-label">Yield: </span>
-          <span>{{ yield }}</span>
+      {% if instructions %}
+        <h3>Instructions</h3>
+        <div class="mb-8 instructions">
+          {{ instructions | markdown | safe }}
         </div>
       {% endif %}
-      {% if total_time %}
-        <div>
-          <span class="field-label">Total Time: </span>
-          <span>{{ total_time }}</span>
-        </div>
-      {% endif %}
-      {% if tags %}
-        <div>
-          <span class="field-label">Categories: </span>
-          {% set tagList = tags %}
-          {% include "layouts/tags-linked.njk" %}
+      {% if notes %}
+        <h4>Notes</h4>
+        <div class="text-sm">
+          {{ notes | markdown | safe }}
         </div>
       {% endif %}
     </div>
   </div>
-  <div class="my-8 text-lg content">
-    {{ content | safe }}
-  </div>
-  {% if ingredients %}
-    <h3>Ingredients</h3>
-    <div class="mb-8 ingredients">
-      {{ ingredients | markdown | safe }}
-    </div>
-  {% endif %}
-  {% if instructions %}
-    <h3>Instructions</h3>
-    <div class="mb-8 instructions">
-      {{ instructions | markdown | safe }}
-    </div>
-  {% endif %}
-  {% if notes %}
-    <h4>Notes</h4>
-    <div class="text-sm">
-      {{ notes | markdown | safe }}
-    </div>
-  {% endif %}
 </main>

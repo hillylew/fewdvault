@@ -19,13 +19,18 @@
 }
 
 #Capa_1 {
-  fill: var(--malachite);
+  fill: var(--white);
 }
 
 .tag {
   display: inline-block;
-  color: var(--silver);
-  background-color: var(--hollywood-cerise);
-  padding: 0 0.25rem;
-  margin: 0.25rem;
+  color: var(--white);
+}
+
+.tag:after {
+  content: ',';
+}
+
+.tag:last-child:after {
+  content: '';
 }
