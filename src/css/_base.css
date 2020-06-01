@@ -43,9 +43,6 @@ body,
   color: var(--woodsmoke);
 }
 
-header {
-}
-
 .recipe-card {
   background: repeating-linear-gradient(white, white 22px, #9198e5 23px, #9198e5 24px);
   background-position-y: 9px;
