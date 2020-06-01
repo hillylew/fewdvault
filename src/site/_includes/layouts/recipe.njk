@@ -43,7 +43,7 @@ layout: layouts/base
       <div class="p-4">
         <div class="flex flex-wrap mt-4">
           {% if ingredients %}
-            <div class="w-1/2">
+            <div class="sm:w-1/2">
               <h3>Ingredients</h3>
               <div class="mb-5 mr-1 ingredients">
                 {{ ingredients | markdown | safe }}
@@ -51,7 +51,7 @@ layout: layouts/base
             </div>
           {% endif %}
           {% if instructions %}
-            <div class="w-1/2">
+            <div class="sm:w-1/2">
               <h3>Instructions</h3>
               <div class="mb-5 instructions">
                 {{ instructions | markdown | safe }}
