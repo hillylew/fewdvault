@@ -30,10 +30,10 @@ body {
   font-family: Courier, monospace;
   color: var(--woodsmoke);
   background-image:
-    linear-gradient(45deg, var(--red) 25%, transparent 25%),
-    linear-gradient(45deg, transparent 75%, var(--pink) 75%),
-    linear-gradient(45deg, transparent 75%, var(--red) 75%),
-    linear-gradient(45deg, var(--pink) 25%, #fff 25%);    
+    linear-gradient(45deg, var(--soft-red) 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, var(--soft-pink) 75%),
+    linear-gradient(45deg, transparent 75%, var(--soft-red) 75%),
+    linear-gradient(45deg, var(--soft-pink) 25%, #fff 25%);    
   background-size: 20px 20px;       
   background-position: 0 0, 0 0, -10px -10px, 10px 10px;
 }

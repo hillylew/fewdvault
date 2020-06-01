@@ -10,7 +10,9 @@
   --cyan: #00ffec;
   --purple-pizzazz: #ff00db;
   --red: #ff0000;
+  --soft-red: rgb(255, 0, 0, 0.6);
   --pink: #F6807E;
+  --soft-pink: rgb(246,128,126, 0.6);
   --light-blue: #4da6ff;
   --white: #ffffff;
 }
