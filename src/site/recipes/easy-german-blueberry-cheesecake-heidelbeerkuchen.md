@@ -12,83 +12,50 @@ tags:
   - German
   - dessert
 ingredients: >-
-  Berries: 6 1/2 cups Fresh Blueberries (1 Kilo!)
+  **Berries:** 
 
-  Batter:
 
-  100 gr. or 4 ounces or half a package or 1/2 cup Neufchatel Cheese (a type of
-  reduced fat cream cheese)
+  * 6 1/2 cups Fresh Blueberries (1 Kilo!) 
 
-  1 Tbl Milk
 
-  1 Egg
+  **Batter:**
 
-  4 Tbl Vegetable Oil
 
-  50 gr or 1/4 cup Granulated Sugar
+  * 100 gr. or 4 ounces or half a package or 1/2 cup Neufchatel Cheese (a type
+  of reduced fat cream cheese)
 
-  4 Tsp Vanilla Sugar (or 3 tsp Sugar and 1 tsp Vanilla extract)
+  * 1 Tbl Milk
 
-  pinch salt
+  * 1 Egg
 
-  200 gr. or 1 2/3 cup Flour
+  * 4 Tbl Vegetable Oil
 
-  4 tsp. Baking Powder
+  * 50 gr or 1/4 cup Granulated Sugar
 
-  Topping:
+  * 4 Tsp Vanilla Sugar (or 3 tsp Sugar and 1 tsp Vanilla extract)
+    pinch salt
+  * 200 gr. or 1 2/3 cup Flour
 
-  2 Tbl. Butter
+  * 4 tsp. Baking Powder
 
-  100 gr or 1/2 cup Sugar
 
-  226 gr or 8 oz. or 1 package or 1 cup Neufchatel Cheese
 
-  1 Egg
+  **Topping:**
 
-  4 Tsp Vanilla Sugar (or 3 tsp sugar and 1 tsp Vanilla extract)
 
-  1 Tbl cornstarch
+  * 2 Tbl. Butter
 
-  5 Tbl Cold MilkBerries:
+  * 100 gr or 1/2 cup Sugar
 
-  6 1/2 cups Fresh Blueberries (1 Kilo!)
+  * 226 gr or 8 oz. or 1 package or 1 cup Neufchatel Cheese
 
-  Batter:
+  * 1 Egg
 
-  100 gr. or 4 ounces or half a package or 1/2 cup Neufchatel Cheese (a type of
-  reduced fat cream cheese)
+  * 4 Tsp Vanilla Sugar (or 3 tsp sugar and 1 tsp Vanilla extract)
 
-  1 Tbl Milk
+  * 1 Tbl cornstarch
 
-  1 Egg
-
-  4 Tbl Vegetable Oil
-
-  50 gr or 1/4 cup Granulated Sugar
-
-  4 Tsp Vanilla Sugar (or 3 tsp Sugar and 1 tsp Vanilla extract)
-
-  pinch salt
-
-  200 gr. or 1 2/3 cup Flour
-
-  4 tsp. Baking Powder
-
-  Topping:
-
-  2 Tbl. Butter
-
-  100 gr or 1/2 cup Sugar
-
-  226 gr or 8 oz. or 1 package or 1 cup Neufchatel Cheese
-
-  1 Egg
-
-  4 Tsp Vanilla Sugar (or 3 tsp sugar and 1 tsp Vanilla extract)
-
-  1 Tbl cornstarch
-
-  5 Tbl Cold Milk
+  * 5 Tbl Cold Milk
 instructions: >-
   1. Preheat oven to 350 F
 
@@ -102,24 +69,19 @@ instructions: >-
   the mixer and beat until smooth.
 
   5. Add flour and baking powder. Mix until the dough comes together. The dough
-  will be sort of stiff.
-
-  The dough will be sort of stiff.
+  will be sort of stiff. The dough will be sort of stiff.
 
   6. Press it into the bottom of the pan, and up the sides about 1 ½ to 2
   inches. It’s not going to be very thick. Just do your best. Patch any holes
-  and even off the top edge.
-
-  It’s not going to be very thick. Just do your best. Patch any holes and even
-  off the top edge.
+  and even off the top edge. It’s not going to be very thick. Just do your best.
+  Patch any holes and even off the top edge.
 
   7. Fill the unbaked crust with blueberries.
 
   8. In a mixer with a whisk, whip the Butter, Sugar, Neufchatel cheese, egg,
   vanilla sugar, cornstarch and milk until SMOOTH. (The filling is sweet, don't
-  worry, the berries balance it out.)
-
-  (The filling is sweet, don't worry, the berries balance it out.)
+  worry, the berries balance it out.) (The filling is sweet, don't worry, the
+  berries balance it out.)
 
   9. Pour the filling over the blueberries… even it out over the top it mostly
   covers them (a few peaking through is ok.) You don’t want it over the edge of
@@ -128,56 +90,23 @@ instructions: >-
   10. Bake 60 minutes and check. Does it look mostly done? A few brown spots are
   ok… it shouldn’t be too wobbly, but it's better to go too long than too short
   (I went 62 minutes, and could have used another minute or two). Don’t go
-  longer than 70 minutes.
+  longer than 70 minutes. Does it look mostly done? A few brown spots are ok… it
+  shouldn’t be too wobbly, but it's better to go too long than too short (I went
+  62 minutes, and could have used another minute or two).
+      Don’t go longer than 70 minutes.
+  11. Let cool completely in the pan on a rack. 
 
-  Does it look mostly done? A few brown spots are ok… it shouldn’t be too
-  wobbly, but it's better to go too long than too short (I went 62 minutes, and
-  could have used another minute or two).
+  12. Refrigerate if you don’t eat it right away.
+notes: >-
+  Store the cake in the refrigerator. At room temperature it is soft.
 
-  Don’t go longer than 70 minutes.
 
-  11. Let cool completely in the pan on a rack.
+  If you have extra juicy berries, maybe mix a tablespoon of cornstarch into the
+  berries before pouring into the dough. I don't mind it a bit messy... but it
+  might save your tablecloth, and it will look nicer if the berries are set
+  more.
 
-  Refrigerate if you don’t eat it right away.Preheat oven to 350 F
 
-  Grease a 9” Springform Pan (If you don’t have a Springform pan, it’s going to
-  be tricky to get the cake out)
-
-  Rinse the blueberries, and let them sit in the colander or on a towel to dry
-
-  Put the Neufchatel cheese, milk, egg, oil, sugar, vanilla sugar, salt into the
-  mixer and beat until smooth.
-
-  Add flour and baking powder. Mix until the dough comes together.
-
-  The dough will be sort of stiff.
-
-  Press it into the bottom of the pan, and up the sides about 1 ½ to 2 inches.
-
-  It’s not going to be very thick. Just do your best. Patch any holes and even
-  off the top edge.
-
-  Fill the unbaked crust with blueberries.
-
-  In a mixer with a whisk, whip the Butter, Sugar, Neufchatel cheese, egg,
-  vanilla sugar, cornstarch and milk until SMOOTH.
-
-  (The filling is sweet, don't worry, the berries balance it out.)
-
-  Pour the filling over the blueberries… even it out over the top it mostly
-  covers them (a few peaking through is ok.) You don’t want it over the edge of
-  the dough though.
-
-  Bake 60 minutes and check.
-
-  Does it look mostly done? A few brown spots are ok… it shouldn’t be too
-  wobbly, but it's better to go too long than too short (I went 62 minutes, and
-  could have used another minute or two).
-
-  Don’t go longer than 70 minutes.
-
-  Let cool completely in the pan on a rack.
-
-  Refrigerate if you don’t eat it right away.
+  The inside is a bit runny. Maybe bake at 325 degrees for 70 minutes.
 ---
 
