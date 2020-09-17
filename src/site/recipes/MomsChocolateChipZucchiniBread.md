@@ -27,7 +27,6 @@ instructions: >-
 
   2. Combine the flour, cocoa, baking powder, soda, and cinnamon and add to the
   creamed mixture alternatively with the milk. Stir in the zucchini and nuts. 
-
   *3. Pour into two greased 8 1/2 x 4 1/2 inch loaf pans and bake for 45-55
   minutes or until a cake tester inserted in the center comes out clean.
 ---
