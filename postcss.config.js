@@ -9,7 +9,12 @@ module.exports = ctx => ({
   plugins: [
     require("postcss-import"),
     require("tailwindcss"),
-    require("postcss-preset-env")({ stage: 1 }),
+    require("postcss-preset-env")({ 
+      stage: 1, 
+      features: {
+        'focus-within-pseudo-class': false
+      } 
+    }),
     require("autoprefixer"),
     ...(process.env.NODE_ENV === "production" ? [purgecss, cssnano] : [])
   ]
