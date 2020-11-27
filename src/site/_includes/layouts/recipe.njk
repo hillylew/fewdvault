@@ -2,17 +2,19 @@
 layout: layouts/base
 ---
 
-<main id="main" class="container mx-auto main">
+<main id="main" class="container mx-auto overflow-hidden main ">
   <div class="bg-white border shadow-xl border-silver">
     <h2 class="items-center px-4 pt-4 pb-2 mb-0 font-bold leading-snug border border-t-0 border-b-2 border-l-0 border-r-0 text-outer-space recipe-title border-red">{{ title }}</h2>
     <div class="p-3 recipe-card">
-      <div class="flex h-64 page-top">
+      <div class="sm:flex page-top">
         {% if image %}
-          <img class="h-64 mr-6 lazyload fade-in" data-src="{{ image}}" title="{{ title }}" />
+          <img class="flex-shrink-0 h-64 max-w-full mb-1 sm:mr-6 lazyload fade-in" data-src="{{ image}}" title="{{ title }}" />
+        {% else %}
+          <div class="-mt-1"></div>
         {% endif %}
-        <div class="pt-1 recipe-stats">
+        <div class="pt-6 sm:pt-0 recipe-stats">
           {% if source %}
-            <div class="text-sm uppercase">
+            <div class="text-sm leading-6 uppercase">
               <a href="{{ source_url }}" class="self-end font-bold hover:underline focus:underline">{{ source }}</a>
             </div>
           {% endif %}
@@ -40,12 +42,12 @@ layout: layouts/base
           </div>
         </div>
       </div>
-      <div class="p-4">
-        <div class="flex flex-wrap mt-4">
+      <div class="mt-3 sm:mt-6">
+        <div class="flex flex-wrap">
           {% if ingredients %}
             <div class="sm:w-1/2">
               <h3>Ingredients</h3>
-              <div class="mb-5 mr-1 ingredients">
+              <div class="mb-6 mr-1 ingredients">
                 {{ ingredients | markdown | safe }}
               </div>
             </div>
@@ -53,16 +55,16 @@ layout: layouts/base
           {% if instructions %}
             <div class="sm:w-1/2">
               <h3>Instructions</h3>
-              <div class="mb-5 instructions">
+              <div class="mb-6 ml-8 instructions">
                 {{ instructions | markdown | safe }}
               </div>
             </div>
         {% endif %}
         </div>
-        <div class="">
+        <div class="mt-6 sm:mt-0">
           {% if notes %}
             <h4 class="mb-0">Notes</h4>
-            <div class="text-sm">
+            <div class="text-sm leading-6">
               {{ notes | markdown | safe }}
             </div>
           {% endif %}

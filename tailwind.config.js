@@ -19,6 +19,9 @@ module.exports = {
         "light-blue": "#4da6ff",
         "white": "#ffffff"
       },
+      margin: {
+        "1125": "1.125rem",
+      },
       minHeight: {
         "16": "4rem",
         "32": "8rem",

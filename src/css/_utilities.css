@@ -24,13 +24,18 @@
 
 .tag {
   display: inline-block;
+}
+
+.tab-tag {
   color: var(--white);
 }
 
+.tab-tag:after,
 .tag:after {
   content: ',';
 }
 
+.tab-tag:last-child:after,
 .tag:last-child:after {
   content: '';
 }

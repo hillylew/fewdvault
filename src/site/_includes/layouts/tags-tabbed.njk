@@ -1,0 +1,4 @@
+{% for tag in tagList %}
+    {% set tagUrl %}/categories/{{ tag }}/{% endset %}
+    <a href="{{ tagUrl | url }}" class="tab-tag">{{ tag }}</a>
+{% endfor %}

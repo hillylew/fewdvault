@@ -11,18 +11,16 @@ favorite: true
 tags:
   - dessert
 ingredients: >-
-  #### Graham Cracker Crust
-
+  **Graham Cracker Crust**
 
   * 1 and 1/2 cups graham cracker crumbs (about 10 full sheet graham crackers)
 
   * 5 Tablespoons unsalted butter, melted
 
   * 1/4 cup granulated sugar
+  
 
-
-  #### Cheesecake
-
+  **Cheesecake**
 
   * 4 8-ounce blocks full-fat cream cheese, softened to room temperature
 
@@ -40,9 +38,6 @@ ingredients: >-
   chocolate ganache, red wine chocolate ganache, fresh fruit, whipped cream, or
   raspberry sauce
 instructions: >-
-  ### Instructions
-
-
   1. Adjust the oven rack to the lower-middle position and preheat oven to 350°F
 
   2. **Make the crust:** Using a food processor, pulse the graham crackers into

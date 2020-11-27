@@ -5,7 +5,7 @@
                 {% if recipe.data.tags %}
                     <div class="font-sans uppercase">
                         {% set tagList = recipe.data.tags %}
-                        {% include "layouts/tags-linked.njk" %}
+                        {% include "layouts/tags-tabbed.njk" %}
                     </div>
                 {% endif %}
             </div>
@@ -17,7 +17,7 @@
                     {% if recipe.data.image %}
                         <img class="hidden block object-cover w-32 h-32 mb-4 border rounded-lg sm:mr-4 sm:block sm:mb-0 lazyload fade-in border-red" data-src="{{ recipe.data.image}}" title="{{ recipe.data.title }}" />
                     {% endif %}
-                    <div class="min-h-16 text-wrapper">
+                    <div class="min-h-32 sm:min-h-16 text-wrapper">
                         {% if recipe.data.source %}
                             <div>
                                 {% if recipe.data.source_url %}
