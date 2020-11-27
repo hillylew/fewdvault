@@ -20,6 +20,7 @@ module.exports = {
         "white": "#ffffff"
       },
       minHeight: {
+        "16": "4rem",
         "32": "8rem",
       }
     }

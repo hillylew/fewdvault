@@ -10,14 +10,14 @@
                 {% endif %}
             </div>
             <div class="bg-white border shadow-xl border-silver">
-                <a href="{{ recipe.url }}">
+                <a class="block" href="{{ recipe.url }}">
                     <h2 class="items-center px-4 pt-2 mb-0 font-bold leading-snug border border-t-0 border-b-2 border-l-0 border-r-0 hover:text-red text-outer-space recipe-title border-red">{{ recipe.data.title }}</h2>
                 </a>
                 <div class="p-3 recipe-card sm:flex">
                     {% if recipe.data.image %}
                         <img class="hidden block object-cover w-32 h-32 mb-4 border rounded-lg sm:mr-4 sm:block sm:mb-0 lazyload fade-in border-red" data-src="{{ recipe.data.image}}" title="{{ recipe.data.title }}" />
                     {% endif %}
-                    <div class="min-h-32 text-wrapper">
+                    <div class="min-h-16 text-wrapper">
                         {% if recipe.data.source %}
                             <div>
                                 {% if recipe.data.source_url %}
