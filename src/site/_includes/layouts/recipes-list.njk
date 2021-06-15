@@ -1,11 +1,11 @@
-<form class="block w-full mb-12">
-    <label for="filter" class="invisible">Search</label>
+<form class="block w-full mb-4 md:mb-12">
+    <label for="filter" class="hidden">Search</label>
     <input
         id="filter"
         name="filter"
         type="search"
-        class="block w-full p-4 border input"
-        placeholder="Search by title"
+        class="w-full p-4 border border-red"
+        placeholder="Search by title or ingredients"
     />
 </form>
 
@@ -26,7 +26,7 @@
                 </a>
                 <div class="p-3 recipe-card sm:flex">
                     {% if recipe.data.image %}
-                        <img class="hidden block object-cover w-32 h-32 mb-4 border rounded-lg sm:mr-4 sm:block sm:mb-0 lazyload fade-in border-red" data-src="{{ recipe.data.image}}" title="{{ recipe.data.title }}" />
+                        <img class="hidden object-cover w-32 h-32 mb-4 border rounded-lg sm:mr-4 sm:block sm:mb-0 lazyload fade-in border-red" data-src="{{ recipe.data.image}}" title="{{ recipe.data.title }}" />
                     {% endif %}
                     <div class="min-h-32 sm:min-h-16 text-wrapper">
                         {% if recipe.data.source %}
@@ -68,16 +68,18 @@
         {% for recipe in recipeslist %}
             {
                 'title': '{{ recipe.data.title | toLowerCase }}',
+                'ingredients': '{{ recipe.data.ingredients | jsEscape }}',
                 'tags': '{{ recipe.data.tags }}',
                 'fileSlug': '{{ recipe.fileSlug }}'
             },
         {% endfor %}
     ];
 
-    function filterResources(searchFilter) {
+    function filterResources() {
         filteredDataResources = dataResources.filter( resourceData => {
             let searchValue = document.querySelector("#filter").value.toLowerCase();
             if (resourceData.title.includes(searchValue) ||
+                resourceData.ingredients.includes(searchValue) ||
                 resourceData.tags.includes(searchValue)) {
 
                 document.querySelector("#recipe-" + resourceData.fileSlug).classList.remove("hidden");
@@ -88,11 +90,17 @@
         });
     }
 
+    search.addEventListener("load", event => {
+        filterResources();
+    });
     search.addEventListener("submit", event => {
         event.preventDefault();
-        filterResources(document.querySelector("#filter"));
+        filterResources();
     });
     document.querySelector("#filter").addEventListener("keyup", event => {
-        filterResources(document.querySelector("#filter"));
+        filterResources();
+    });
+    document.querySelector("#filter").addEventListener("change", event => {
+        filterResources();
     });
 </script>

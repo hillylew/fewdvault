@@ -22,10 +22,14 @@ module.exports = eleventyConfig => {
     return slugify(value, {
       customReplacements: [["'"]]
     });
-  });  
+  });
 
   eleventyConfig.addFilter("toLowerCase", value => { 
     return value.toLowerCase();
+  });
+
+  eleventyConfig.addFilter("jsEscape", value => { 
+    return escape(value);
   });
 
   // Collections.
