@@ -37,7 +37,7 @@
   "dependencies": {
     "autoprefixer": "^9.8.6",
     "lazysizes": "^5.2.0",
-    "postcss": "^7.0.35",
+    "postcss": "^8.2.10",
     "postcss-loader": "^4.1.0",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.1"
   },
