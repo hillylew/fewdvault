@@ -24,6 +24,10 @@ module.exports = eleventyConfig => {
     });
   });  
 
+  eleventyConfig.addFilter("toLowerCase", value => { 
+    return value.toLowerCase();
+  });
+
   // Collections.
   eleventyConfig.addCollection("tagList", collection => {
     let tagSet = new Set();

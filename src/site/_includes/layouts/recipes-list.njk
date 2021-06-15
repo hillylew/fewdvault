@@ -1,6 +1,17 @@
-<div class="flex flex-wrap justify-around">
+<form class="block w-full mb-12">
+    <label for="filter" class="invisible">Search</label>
+    <input
+        id="filter"
+        name="filter"
+        type="search"
+        class="block w-full p-4 border input"
+        placeholder="Search by title"
+    />
+</form>
+
+<div id="resources" class="flex flex-wrap justify-around">
     {% for recipe in recipeslist %}
-        <article class="w-full m-4 mb-8 md:w-2/5">
+        <article id="recipe-{{ recipe.fileSlug }}" class="w-full m-4 mb-8 md:w-2/5">
             <div class="inline-block p-4 mb-0 leading-none text-white border border-b-0 rounded-t-md bg-limed-spruce border-limed-spruce">
                 {% if recipe.data.tags %}
                     <div class="font-sans uppercase">
@@ -46,3 +57,42 @@
         </article>
     {% endfor %}
 </div>
+
+<script type="text/javascript">
+    const resources = document.querySelector("#resources");
+
+    let search = document.querySelector("form");
+    let filteredDataResources = [];
+
+    const dataResources = [
+        {% for recipe in recipeslist %}
+            {
+                'title': '{{ recipe.data.title | toLowerCase }}',
+                'tags': '{{ recipe.data.tags }}',
+                'fileSlug': '{{ recipe.fileSlug }}'
+            },
+        {% endfor %}
+    ];
+
+    function filterResources(searchFilter) {
+        filteredDataResources = dataResources.filter( resourceData => {
+            let searchValue = document.querySelector("#filter").value.toLowerCase();
+            if (resourceData.title.includes(searchValue) ||
+                resourceData.tags.includes(searchValue)) {
+
+                document.querySelector("#recipe-" + resourceData.fileSlug).classList.remove("hidden");
+            } 
+            else {
+                document.querySelector("#recipe-" + resourceData.fileSlug).classList.add("hidden");
+            }
+        });
+    }
+
+    search.addEventListener("submit", event => {
+        event.preventDefault();
+        filterResources(document.querySelector("#filter"));
+    });
+    document.querySelector("#filter").addEventListener("keyup", event => {
+        filterResources(document.querySelector("#filter"));
+    });
+</script>
