@@ -91,6 +91,7 @@
     }
 
     search.addEventListener("load", event => {
+        event.preventDefault();
         filterResources();
     });
     search.addEventListener("submit", event => {
@@ -98,9 +99,15 @@
         filterResources();
     });
     document.querySelector("#filter").addEventListener("keyup", event => {
+        event.preventDefault();
         filterResources();
     });
     document.querySelector("#filter").addEventListener("change", event => {
+        event.preventDefault();
+        filterResources();
+    });
+    document.querySelector("#filter").addEventListener("search", event => {
+        event.preventDefault();
         filterResources();
     });
 </script>
