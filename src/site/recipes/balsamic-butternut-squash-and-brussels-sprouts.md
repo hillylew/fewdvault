@@ -9,7 +9,7 @@ active_time: 20 minutes
 total_time: 1 hour
 image: /uploads/balsamic-butternut-squash-5.jpg
 tags:
-  - Sides
+  - sides
 ingredients: |2-
    pounds peeled, cubed butternut squash 1 pound fresh Brussels sprouts, trimmed, halved
   2 tablespoons balsamic vinegar

@@ -9,7 +9,9 @@ export const config = {
     branch: "master",
     name: "github",
     repo: "hillylew/fewdvault",
+    // name: "git-gateway", // npx netlify-cms-proxy-server
   },
+  local_backend: false,
   media_folder: "src/uploads",
   public_folder: "/uploads",
   collections: [recipes]

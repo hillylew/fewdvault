@@ -8,7 +8,7 @@ active_time: 30 minutes
 total_time: 5 hours
 image: /uploads/img_20201225_125923_238.jpg
 tags:
-  - Dessert
+  - dessert
 ingredients: |-
   **Chocolate Cake**
 

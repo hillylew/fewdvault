@@ -9,7 +9,7 @@ total_time: 95 minutes
 image: /uploads/Rosemary-Focaccia-Bread-Recipe-5-1100x1650.jpg
 favorite: true
 tags:
-  - Bread
+  - bread
 ingredients: |-
   1 1/3 cup warm water (about 110°F)
   2 teaspoons sugar or honey

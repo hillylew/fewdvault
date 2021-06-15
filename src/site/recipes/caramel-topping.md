@@ -8,7 +8,7 @@ active_time: 15 minutes
 total_time: 15 minutes
 image: /uploads/img_20201225_125923_238.jpg
 tags:
-  - Dessert
+  - dessert
 ingredients: |-
   * 1 cup granulated sugar
   * 6 Tablespoons salted butter, room temperature cut up into 6 pieces

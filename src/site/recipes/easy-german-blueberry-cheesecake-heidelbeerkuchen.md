@@ -9,7 +9,7 @@ total_time: 1.5 hours
 image: /uploads/IMG_20200828_201056_995.jpg
 favorite: true
 tags:
-  - German
+  - german
   - dessert
 ingredients: >-
   **Berries:** 

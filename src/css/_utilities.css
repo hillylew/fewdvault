@@ -30,9 +30,12 @@
   color: var(--white);
 }
 
-.tab-tag:after,
-.tag:after {
+.tab-tag:after {
   content: ',';
+}
+
+.tag:after {
+  content: ' |';
 }
 
 .tab-tag:last-child:after,

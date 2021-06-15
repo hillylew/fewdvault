@@ -8,7 +8,7 @@ active_time: 10 minutes
 total_time: 45+ minutes
 favorite: false
 tags:
-  - Soup
+  - soup
   - greek
 ingredients: |-
   * 1 tbsp olive oil 1 small onion chopped

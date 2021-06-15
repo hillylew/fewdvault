@@ -8,7 +8,7 @@ active_time: 15 minutes
 total_time: 1 hour
 image: /uploads/img_20201225_125731_148.jpg
 tags:
-  - Breakfast
+  - breakfast
 ingredients: |-
   * 1 and 3/4 cups all-purpose flour (spoon & leveled)
   * 1 and 1/2 teaspoons baking powder
