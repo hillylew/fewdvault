@@ -1,10 +1,11 @@
 ---
 title: Voodoo Bucket
-source: 
-source_url: 
+source: null
+source_url: null
 yield: 1
-active_time: 
-total_time: 
+active_time: null
+total_time: null
+favorite: true
 tags:
   - drinks
 ingredients: |-
@@ -16,5 +17,5 @@ ingredients: |-
   * 1 1/2 oz Orange juice 
   * 1 1/2 oz Pineapple juice 
   * 1/2 oz Dark Rum (Cruzan) 
-instructions: |-
+instructions: ""
 ---
