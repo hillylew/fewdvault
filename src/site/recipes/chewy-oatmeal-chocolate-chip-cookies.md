@@ -62,9 +62,9 @@ notes: >-
   chips. You can even try 1 cup chocolate chips and 3/4 cup raisins. Yum!
 
 
-  **My notes:** I used 1 cup semi-sweet chips, and 3/4 cup butterscotch chips.
-  Refrigerating for 1-1.5 hours makes the cookies spread less. I used my 2
+  **My notes:** I used 1 cup semi-sweet chips, and 3/4 cup butterscotch chips. If making all butterscotch cookies, include the cinnamon and use 2 cups butterscotch chips.
+  Refrigerating for 1-1.5 hours makes the cookies spread less, as does only warming up the butter to room temp for 30 minutes. I used my 2
   tablespoon cookie scoop, heaping scoops yields about 36 cookies. Smaller
-  cookies should bake for 9-10 minutes.
+  cookies should bake for 10 minutes.
 ---
 Made with oats, butter, and brown sugar, you are guaranteed the softest and chewiest **oatmeal chocolate chip cookies**. Use this perfect oatmeal cookie as the base for other add-ins such as raisins, dried cranberries, and nuts. Cinnamon and a touch of molasses add that little something extra. These are the best oatmeal chocolate chip cookies!
