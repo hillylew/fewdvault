@@ -8,6 +8,7 @@ active_time: 40 minutes
 total_time: 5 hours
 tags: 
   - dessert
+image: uploads/choc-crinkle-cookies.JPG
 ingredients: |-
   * 1 cup unsweetened cocoa powder 
   * 2 cups white sugar 

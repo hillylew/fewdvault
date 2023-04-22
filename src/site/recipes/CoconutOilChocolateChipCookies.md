@@ -8,6 +8,7 @@ active_time: 15
 total_time: 25
 tags: 
   - dessert
+image: uploads/coconut-cookies.jpg
 ingredients: |-
   * 1/2 cup coconut oil (not melted) 
   * 1/2 cup light brown sugar 

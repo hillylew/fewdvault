@@ -21,9 +21,12 @@ ingredients: |-
   * 3 eggs, beaten 
   * 1 cup liquid 
 instructions: |-
-  * Melt butter or margarine and slowly simmer the celery and onions. 
-  * Grate bread (toasted) into large bowl, add seasoning. 
-  * Combine celery mixture with bread, add eggs and liquid (liquid could be added to celery mixture to warm). Toss lightly until all ingredients are blended. 
-  * Dry inside of turkey and stuff. Put remaining stuffing into casserole. 
+  1. Melt butter or margarine and slowly simmer the celery and onions.
+
+  2. Grate bread (toasted) into large bowl, add seasoning.
+
+  3. Combine celery mixture with bread, add eggs and liquid (liquid could be added to celery mixture to warm). Toss lightly until all ingredients are blended.
+
+  4. Dry inside of turkey and stuff. Put remaining stuffing into casserole.
 ---
 For 15 - 18 lbs

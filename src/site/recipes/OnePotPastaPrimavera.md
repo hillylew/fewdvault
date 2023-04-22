@@ -23,7 +23,9 @@ ingredients: |-
   * 1/2 cup torn fresh basil leaves 
   * Grated Parmesan cheese for garnish, optional 
 instructions: |-
-  * Combine oil, garlic, and lemon zest in small bowl. Set aside. 
-  * Cook pasta in large pot of boiling, salted water according to package directions. Add squash and bell pepper 4 minutes before end of cooking time. Add broccoli 3 minutes before end of cooking time. Drain pasta and vegetables, reserving 1/2 cup cooking water. 
-  * Return pasta mixture to pot, and stir in tomatoes, green onions, basil, oil mixture, and reserved cooking water. Heat over medium-low heat until tomatoes are hot. Serve with Parmesan cheese, if desired. 
+  1. Combine oil, garlic, and lemon zest in small bowl. Set aside.
+
+  2. Cook pasta in large pot of boiling, salted water according to package directions. Add squash and bell pepper 4 minutes before end of cooking time. Add broccoli 3 minutes before end of cooking time. Drain pasta and vegetables, reserving 1/2 cup cooking water.
+
+  3. Return pasta mixture to pot, and stir in tomatoes, green onions, basil, oil mixture, and reserved cooking water. Heat over medium-low heat until tomatoes are hot. Serve with Parmesan cheese, if desired. 
 ---

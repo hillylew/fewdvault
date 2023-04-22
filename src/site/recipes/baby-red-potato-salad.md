@@ -6,6 +6,7 @@ active_time: 15 minutes
 total_time: 25 minutes
 tags:
   - sides
+image: /uploads/Baby-Red-Potato-Salad.jpg
 ingredients: |-
   * 1 lb baby red potatoes
   * 1/4 red onion, finely diced

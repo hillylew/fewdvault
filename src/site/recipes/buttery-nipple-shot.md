@@ -7,6 +7,7 @@ active_time:
 total_time: 
 tags: 
   - drinks
+image: /uploads/Buttery-nipple.jpg
 ingredients: |-
   * 1 oz Buttershots liqueur 
   * 1/2 oz Irish Cream liqueur 

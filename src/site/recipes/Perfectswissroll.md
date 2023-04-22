@@ -17,12 +17,19 @@ ingredients: |-
   * Dash of vanilla extract 
   * Jar of jam of your choice 
 instructions: |-
-  * Melt the butter in a small pan and set aside. Grease and line a tin roughly 30cm x 21cm and heat the oven to 350°. 
-  * Sift the flour into a mixing bowl from a height (don’t be tempted to skip this step). Add the salt. 
-  * Separate the eggs into two medium bowls and add the caster sugar and vanilla to the yolks. Whip the whites to soft peaks using a hand whisk or electric beaters, then whisk the yolks and sugar until pale and voluminous (doing it this way round means you don’t have to wash the whisk). Whisk in the butter. 
-  * Fold the flour into the yolks, being careful to keep as much air as possible in the mixture, then fold in a little of the whites to loosen the mixture, then fold in the rest. 
-  * Tip into the tin and tilt to cover, then lift and drop the tin on to the workspace a couple of times to get rid of any air bubbles. Bake for about 10-12 minutes until golden and springy to the touch. 
-  * Meanwhile, cut a piece of greaseproof a little larger than the tin and dust with the extra sugar. 
-  * Loosen the sponge round the edges and then invert on to the paper with one of the short sides facing you. Trim the edges with a bread knife to neaten, then score a line about 1cm across the side closest to you. 
-  * Roll up as tightly as possible, rolling the paper in with it. Leave rolled up tightly until cool, then unwrap and spread with jam and roll back up without the paper. 
+  1. Melt the butter in a small pan and set aside. Grease and line a tin roughly 30cm x 21cm and heat the oven to 350°.
+
+  2. Sift the flour into a mixing bowl from a height (don’t be tempted to skip this step). Add the salt.
+
+  3. Separate the eggs into two medium bowls and add the caster sugar and vanilla to the yolks. Whip the whites to soft peaks using a hand whisk or electric beaters, then whisk the yolks and sugar until pale and voluminous (doing it this way round means you don’t have to wash the whisk). Whisk in the butter.
+
+  4. Fold the flour into the yolks, being careful to keep as much air as possible in the mixture, then fold in a little of the whites to loosen the mixture, then fold in the rest.
+
+  5. Tip into the tin and tilt to cover, then lift and drop the tin on to the workspace a couple of times to get rid of any air bubbles. Bake for about 10-12 minutes until golden and springy to the touch.
+
+  6. Meanwhile, cut a piece of greaseproof a little larger than the tin and dust with the extra sugar.
+
+  7. Loosen the sponge round the edges and then invert on to the paper with one of the short sides facing you. Trim the edges with a bread knife to neaten, then score a line about 1cm across the side closest to you.
+
+  8. Roll up as tightly as possible, rolling the paper in with it. Leave rolled up tightly until cool, then unwrap and spread with jam and roll back up without the paper. 
 ---

@@ -12,6 +12,7 @@ ingredients: |-
   * 10 to 12 oz diet soda 
   * 1 box cake mix (Duncan hines or Debbie crocker) 
   * 2 egg whites (optional)
+
   **Frosting**   
   * 8 oz free cool whip 
   * 3/4 pouch fat free sugar free instant pudding<br>
@@ -22,7 +23,7 @@ instructions: |-
   1. Follow box directions for cake. 
   2. Cool cake, mix pudding mix with cool whip and spread right away. Cool in fridge for frosting to set. 
 notes: |-
-  **Suggested Combinations** <br>
+  **Suggested Combinations** 
   * yellow cake mix / diet lemon-lime soda (with a dollop of Cool Whip -- tastes like a "Twinkie")<br>
   * orange cake / diet Mountain Dew<br>
   * cherry chip cake / diet cream soda<br>

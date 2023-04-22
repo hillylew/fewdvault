@@ -9,6 +9,7 @@ total_time: 25 minutes
 tags: 
   - american
   - veg
+image: uploads/vegan-cornbread.jpg
 ingredients: |-
   * 1 1/4 cups all purpose flour 
   * 1 cup yellow corn meal 

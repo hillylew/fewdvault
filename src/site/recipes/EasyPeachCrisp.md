@@ -17,6 +17,7 @@ ingredients: |-
   * 3/4 teaspoon ground cinnamon 
   * 1/8 teaspoon fine salt 
   * 6 tablespoons cold unsalted butter (3/4 stick), cut into small pieces
+
   **For the filling**
   * 1/3 cup packed light brown sugar 
   * 1 tablespoon freshly squeezed lemon juice 
@@ -28,6 +29,7 @@ instructions: |-
   **For the topping**
   1. Heat the oven to 425°F and arrange a rack in the middle. 
   2. Place all of the ingredients in a large bowl. With your fingertips, blend the butter pieces into the dry ingredients until large clumps form and the flour and butter are completely incorporated, about 3 minutes. Crumble the clumps into small pieces the size of kidney beans, then refrigerate the streusel while you make the filling for the pie.
+
   **For the filling**
   1. Place the brown sugar, lemon juice, cornstarch, vanilla, and salt in a large bowl and whisk to combine. Add the peaches and stir until evenly coated. 
   2. Transfer the mixture to an 8-by-8-inch glass or ceramic baking dish and arrange it in an even layer. Sprinkle the reserved topping evenly over the peaches. 

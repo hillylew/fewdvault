@@ -18,11 +18,16 @@ ingredients: |-
   * 2 tsp Orange extract 
   * 1 to 2 drops orange gel food coloring 
 instructions: |-
-  * Line an 8inch baking dish with parchment paper. Set aside. 
-  * Prepare your mixing bowl by adding the marshmallow cream and white chocolate morsels. Set aside. 
-  * In a large saucepan over medium high heat, combine sugar, cream, butter and salt. Bring to a boil. Stirring constantly, boil for a full 4 minutes (ROLLING BOIL). Remove from heat. 
-  * Immediately pour hot mixture over marshmallow and white chocolate chips in mixing bowl. Using your electric mixer, blend until smooth (and white chocolate is melted, about 1 minute). Pour HALF of this mixture into prepared baking dish. 
-  * To the remaining half, add orange extract and food coloring. Blend until smooth and pour over white layer of fudge. 
-  * Refrigerate for 3-4 hours until firm. Cut into small pieces and enjoy. 
+  1. Line an 8inch baking dish with parchment paper. Set aside.
+
+  2. Prepare your mixing bowl by adding the marshmallow cream and white chocolate morsels. Set aside.
+
+  3. In a large saucepan over medium high heat, combine sugar, cream, butter and salt. Bring to a boil. Stirring constantly, boil for a full 4 minutes (ROLLING BOIL). Remove from heat.
+
+  4. Immediately pour hot mixture over marshmallow and white chocolate chips in mixing bowl. Using your electric mixer, blend until smooth (and white chocolate is melted, about 1 minute). Pour HALF of this mixture into prepared baking dish.
+
+  5. To the remaining half, add orange extract and food coloring. Blend until smooth and pour over white layer of fudge.
+
+  6. Refrigerate for 3-4 hours until firm. Cut into small pieces and enjoy. 
 ---
 Orange Creamsicle Fudge is like your favorite ice cream treat from the truck - but it doesn't melt! Just the right amount of sweet for an afternoon jolt of happiness.

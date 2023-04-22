@@ -21,10 +21,11 @@ ingredients: |-
   * 1 Tablespoon poppy seeds
   * Fresh Chopped Mint for garnish
 instructions: >-
-  * Cut and prepare the fruit and put into a large mixing bowl. In a small bowl,
-  whisk the honey, lime juice and poppy seeds.
+  1. Cut and prepare the fruit and put into a large mixing bowl.
 
-  * Drizzle the honey lime poppy seed glaze over the fruit and gently toss. Top with chopped mint if desired. Serve immediately.
+  2. In a small bowl, whisk the honey, lime juice and poppy seeds.
+  
+  3. Drizzle the honey lime poppy seed glaze over the fruit and gently toss. Top with chopped mint if desired. Serve immediately.
 notes: If serving later, keep dressing separate until right before serving.
 ---
 Honey Lime Poppy Seed Fruit Salad is a blend of all your favorite fruits with a sweet and zesty dressing to make each fruit burst with flavor! Add color and flavor to your table with this light and fruitful salad.

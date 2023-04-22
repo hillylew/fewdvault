@@ -2,6 +2,11 @@
 title: Baba Ganoush
 uuid: b1654e63-cff4-4c6b-887d-1428f3e8f74d
 favorite: true
+tags:
+- appetizers
+- greek
+- veg
+image: /uploads/baba-ganoush.jpg
 ingredients: |-
   * 1 medium eggplant, lightly smoked
   * 2 tbsp olive oil

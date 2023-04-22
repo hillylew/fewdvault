@@ -26,6 +26,7 @@ ingredients: |-
   * 1 2-oz. can diced green chiles with liquid 
   * 1/4 cup chopped cilantro 
 instructions: |-
-  * Whisk together vinegar, oil, sugar, garlic, oregano, and basil in large bowl. 
-  * Stir in black and pinto beans, corn, bell pepper, onion, chiles, and cilantro. Season with salt and pepper. Refrigerate 1 hour before serving. 
+  1. Whisk together vinegar, oil, sugar, garlic, oregano, and basil in large bowl.
+
+  2. Stir in black and pinto beans, corn, bell pepper, onion, chiles, and cilantro. Season with salt and pepper. Refrigerate 1 hour before serving. 
 ---

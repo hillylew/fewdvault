@@ -9,6 +9,7 @@ total_time: 6 hours 45 minutes
 tags: 
   - american
   - dessert
+image: uploads/pumpkin-pie.jpg
 ingredients: |-
   **Pie Crust**
   * 1 cup Gold Medal™ all-purpose flour 
