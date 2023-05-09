@@ -13,39 +13,38 @@ tags:
 ingredients: |-
   * 2 Tablespoons vegetable oil
   * 1 small yellow onion, chopped
+  * 3 cloves garlic, minced
   * 1 red bell pepper, chopped
-  * 1 clove garlic, minced
-  * 3 Tablespoons cornstarch
-  * 6 cups low sodium chicken broth
-  * 2 cups chopped or shredded cooked chicken
-  * 12 oz. mild cheddar cheese, shredded
-  * 2 corn tortillas, chopped into small pieces
-  * 3 Tablespoons fresh lime juice
-  * 1 (14.5 ounce) can diced tomatoes
-  * 1 can diced green chiles
-  * 3/4 teaspoon ground cumin
-  * 1/2 teaspoon ground cayenne pepper (optional)
-  * 1/2 teaspoon oregano
-  * 3/4 teaspoon salt
-  * Fresh cilantro, chopped, for garnish
+  * 1 quart chicken broth
+  * 1 (10 ounce) can diced tomatoes with green chiles
+  * 1.25 cups chopped or shredded cooked chicken
+  * 1/2 can beer
+  * Splash of white wine
+  * Juice from 1 lime
+  * Season to taste: salt, pepper, garlic, onion, oregano, cumin, chile powder, cayenne pepper and/or red pepper flakes
+  * 2-3 bay leaves
+  * Cornstarch
+  * Cheddar cheese, shredded
   * Tortilla strips or chips, for garnish
 instructions: >-
   1. In a large pot, heat oil over medium heat. Add onion and pepper and cook
   until translucent, 6-7 minutes. Add garlic and cook an additional minute,
   until fragrant.
 
-  2. Dissolve the cornstarch in the chicken broth then add it to the pot. Add the chicken, cheese, chopped tortillas, lime juice, diced tomatoes, green chiles, cumin, cayenne, oregano, and salt. Increase the heat to medium high and stir frequently as the cheese melts. Be sure to run your spatula along the bottom of the pan occasionally to ensure the cheese isn't sticking to the bottom.
+  2. Add chicken broth, beer, wine, lime, tomatoes, and chicken. 
+  
+  3. Season to taste and let simmer for about an hour.
 
-  3. When the cheese is melted and the soup begins to bubble, reduce the heat to low and allow to simmer for about 20 minutes, stirring occasionally, until tortillas are very soft and mostly melted into the soup. Serve with tortilla chips and fresh cilantro.
+  4. Thicken lightly with cornstarch, then sprinkle the cheese in and stire viforouly until incorporated. Either turn to low or off heat to rest. Make tortilla strips while the soup sits.
 
+  5. Serve by adding cheese and fried tortilla strips to bowl, fill with soup, then top with more cheese and tortilla strips.
 
   **Tortilla Strips**
 
+  1. Chop 4-8 corn tortillas into strips.
 
-  1. C﻿hop 4-8 corn tortillas into strips.
+  2. Fry in oil until browned (~ 5 minutes)
 
-  2. F﻿ry in oil until browned
-
-  3. C﻿ool on paper towels
+  3. Cool on paper towels
 ---
 Cheesy Chicken Tortilla Soup is creamy comfort food with a bit of a kick! You'll love this soup for warming up on a chilly night.
