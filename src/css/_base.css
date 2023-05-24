@@ -106,3 +106,12 @@ a:active {
 ol {
   list-style-type: decimal; 
 }
+
+ul {
+  list-style-type: disc; 
+}
+
+ol,
+ul {
+  @apply pl-10 my-4;
+}

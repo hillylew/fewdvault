@@ -8,16 +8,6 @@
   position: relative !important;
 }
 
-.lazyload,
-.lazyloading {
-  opacity: 0;
-}
-
-.lazyloaded {
-  opacity: 1;
-  transition: opacity 0.5s;
-}
-
 #Capa_1 {
   fill: var(--white);
 }

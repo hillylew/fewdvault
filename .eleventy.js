@@ -1,11 +1,29 @@
+const { createClient } = require("@sanity/client");
+const { EleventyServerlessBundlerPlugin } = require("@11ty/eleventy");
 const format = require("date-fns/format");
 const md = require("markdown-it")();
 const slugify = require("@sindresorhus/slugify");
 
+// Local env variables.
+require("dotenv").config();
+
+// Import plugins.
+const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+
 module.exports = eleventyConfig => {
+  // Global Data.
+  eleventyConfig.addGlobalData(
+    "sanityClient",
+    createClient({
+      projectId: "at91z4ai",
+      dataset: "production",
+      apiVersion: "2022-11-14",
+      useCdn: false,
+    })
+  );
+
   eleventyConfig.addPassthroughCopy({ "src/img": "img" });
   eleventyConfig.addPassthroughCopy({ "src/icons": "./" });
-  eleventyConfig.addPassthroughCopy({ "src/cms/dist": "./admin" });
   eleventyConfig.addPassthroughCopy({ "src/uploads": "uploads" });
   eleventyConfig.addPassthroughCopy({ "src/fonts": "fonts" });
 
@@ -89,20 +107,18 @@ module.exports = eleventyConfig => {
     return types
   });
 
-  eleventyConfig.addCollection("recipesAscending", collection => {
-    return collection.getFilteredByGlob("src/site/recipes/*.md").sort(function(a, b) {
-      let nameA = a.data.title.toUpperCase();
-      let nameB = b.data.title.toUpperCase();
-      if (nameA < nameB) return -1;
-      else if (nameA > nameB) return 1;
-      else return 0;
-    });
+  // Server options.
+  eleventyConfig.setServerOptions({
+    domdiff: false,
   });
 
   return {
     dir: {
       input: "src/site",
-      output: "public"
-    }
+      output: "_site"
+    },
+    htmlTemplateEngine: "njk",
+    dataTemplateEngine: "njk",
+    markdownTemplateEngine: "njk",
   };
 };

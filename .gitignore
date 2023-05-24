@@ -1,5 +1,7 @@
 # Ignore dev and build directories.
 node_modules
 public
+_site
+.cache
 .idea
 .vscode

@@ -1,4 +1,10 @@
 module.exports = {
+  content: [
+    "./**/*.njk",
+    "./_data/helpers.js",
+    "./js/**/*.js",
+    "./functions/index.sj",
+  ],
   theme: {
     fontFamily: {
       'sans': ['Helvetica', 'Arial', 'sans-serif'],
@@ -19,12 +25,18 @@ module.exports = {
         "light-blue": "#4da6ff",
         "white": "#ffffff"
       },
+      height: {
+        "16": "4rem"
+      },
       margin: {
         "1125": "1.125rem",
       },
       minHeight: {
         "16": "4rem",
         "32": "8rem",
+      },
+      width: {
+        "16": "4rem"
       }
     }
   },

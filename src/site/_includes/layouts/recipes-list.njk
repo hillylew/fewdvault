@@ -10,44 +10,44 @@
 </form>
 
 <div id="resources" class="flex flex-wrap justify-around">
-    {% for recipe in recipeslist %}
-        <article id="recipe-{{ recipe.fileSlug }}" class="w-full m-4 mb-8 md:w-2/5">
+    {% for recipe in helpers.getRecipesAscending(recipes) %}
+        <article id="recipe-{{ recipe.id }}" class="w-full m-4 mb-8 md:w-2/5">
             <div class="inline-block p-4 mb-0 leading-none text-white border border-b-0 rounded-t-md bg-limed-spruce border-limed-spruce">
-                {% if recipe.data.tags %}
+                {% if recipe.tags %}
                     <div class="font-sans uppercase">
-                        {% set tagList = recipe.data.tags %}
+                        {% set tagList = recipe.tags %}
                         {% include "layouts/tags-tabbed.njk" %}
                     </div>
                 {% endif %}
             </div>
             <div class="bg-white border shadow-xl border-silver">
-                <a class="block" href="{{ recipe.url }}">
-                    <h2 class="items-center px-4 pt-2 mb-0 font-bold leading-snug border border-t-0 border-b-2 border-l-0 border-r-0 hover:text-red text-outer-space recipe-title border-red">{{ recipe.data.title }}</h2>
+                <a class="block" href="/recipes/{{ recipe.slug }}">
+                    <h2 class="items-center px-4 pt-2 mb-0 font-bold leading-snug border border-t-0 border-b-2 border-l-0 border-r-0 hover:text-red text-outer-space recipe-title border-red">{{ recipe.title }}</h2>
                 </a>
                 <div class="p-3 recipe-card sm:flex">
-                    {% if recipe.data.image %}
-                        <img class="hidden object-cover w-32 h-32 mb-4 border rounded-lg sm:mr-4 sm:block sm:mb-0 lazyload fade-in border-red" data-src="{{ recipe.data.image}}" title="{{ recipe.data.title }}" />
+                    {% if recipe.image %}
+                        <img class="hidden object-cover w-32 h-32 mb-4 border rounded-lg sm:mr-4 sm:block sm:mb-0 fade-in border-red" src="{{ helpers.imageURL(sanityClient, recipe.image, 128, 128) }}" alt="{{ recipe.image_alt }}" title="{{ recipe.title }}" />
                     {% endif %}
                     <div class="min-h-32 sm:min-h-16 text-wrapper">
-                        {% if recipe.data.source %}
+                        {% if recipe.source %}
                             <div>
-                                {% if recipe.data.source_url %}
-                                    <span class="field-label">From: </span><a href="{{ recipe.data.source_url }}" class="self-end font-bold hover:underline focus:underline">{{ recipe.data.source }}</a>
+                                {% if recipe.source_url %}
+                                    <span class="field-label">From: </span><a href="{{ recipe.source_url }}" class="self-end font-bold hover:underline focus:underline">{{ recipe.source }}</a>
                                 {% else %}
-                                    <span class="field-label">From: </span><span class="self-end font-bold">{{ recipe.data.source }}</span>
+                                    <span class="field-label">From: </span><span class="self-end font-bold">{{ recipe.source }}</span>
                                 {% endif%}
                             </div>
                         {% endif %}
-                        {% if recipe.data.yield %}
+                        {% if recipe.yield %}
                             <div>
                                 <span class="field-label">Yield: </span>
-                                <span>{{ recipe.data.yield }}</span>
+                                <span>{{ recipe.yield }}</span>
                             </div>
                         {% endif %}
-                        {% if recipe.data.total_time %}
+                        {% if recipe.total_time %}
                             <div>
                                 <span class="field-label">Total Time: </span>
-                                <span>{{ recipe.data.total_time }}</span>
+                                <span>{{ recipe.total_time }}</span>
                             </div>
                         {% endif %}
                     </div>
@@ -65,12 +65,12 @@
     let filteredDataResources = [];
 
     const dataResources = [
-        {% for recipe in recipeslist %}
+        {% for recipe in recipes %}
             {
-                'title': '{{ recipe.data.title | toLowerCase }}',
-                'ingredients': '{{ recipe.data.ingredients | jsEscape }}',
-                'tags': '{{ recipe.data.tags }}',
-                'fileSlug': '{{ recipe.fileSlug }}'
+                'title': '{{ recipe.title | toLowerCase }}',
+                'ingredients': '{{ recipe.ingredients | jsEscape }}',
+                'tags': '{{ recipe.tags }}',
+                'id': '{{ recipe.id }}'
             },
         {% endfor %}
     ];
@@ -82,10 +82,10 @@
                 resourceData.ingredients.includes(searchValue) ||
                 resourceData.tags.includes(searchValue)) {
 
-                document.querySelector("#recipe-" + resourceData.fileSlug).classList.remove("hidden");
+                document.querySelector("#recipe-" + resourceData.id).classList.remove("hidden");
             } 
             else {
-                document.querySelector("#recipe-" + resourceData.fileSlug).classList.add("hidden");
+                document.querySelector("#recipe-" + resourceData.id).classList.add("hidden");
             }
         });
     }

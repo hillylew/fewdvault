@@ -1,0 +1,36 @@
+{
+  "name": "fewdvault",
+  "private": true,
+  "version": "1.0.0",
+  "main": "package.json",
+  "author": "Hillary Lewandowski <hclatcha@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "sanity start",
+    "build": "sanity build",
+    "dev": "sanity dev"
+  },
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "@sanity/cli": "^3.2.0",
+    "@sanity/orderable-document-list": "^1.0.2",
+    "@sanity/production-preview": "^2.33.2",
+    "@sanity/table": "^1.0.1",
+    "@sanity/vision": "^3.2.0",
+    "easymde": "^2.18.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.8.0",
+    "sanity": "^3.8.3",
+    "sanity-plugin-markdown": "^4.1.0",
+    "styled-components": "^5.2.0",
+    "uuid": "^3.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hillylew/fewdvault.git"
+  }
+}
