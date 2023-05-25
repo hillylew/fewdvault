@@ -10,7 +10,7 @@
 </form>
 
 <div id="resources" class="flex flex-wrap justify-around">
-    {% for recipe in helpers.getRecipesAscending(recipes) %}
+    {% for recipe in recipeslist %}
         <article id="recipe-{{ recipe.id }}" class="w-full m-4 mb-8 md:w-2/5">
             <div class="inline-block p-4 mb-0 leading-none text-white border border-b-0 rounded-t-md bg-limed-spruce border-limed-spruce">
                 {% if recipe.tags %}

@@ -1,7 +1,10 @@
-# Ignore dev and build directories.
-node_modules
+# Compiled sanity studio
+/dist
+# Compiled eleventy site
 public
 _site
+# Ignore dev and build directories.
+node_modules
 .cache
 .idea
 .vscode

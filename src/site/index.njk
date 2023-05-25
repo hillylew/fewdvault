@@ -3,5 +3,6 @@ layout: layouts/base
 title: The Fewd Vault
 ---
 <main id="main" class="container mx-auto">
+    {% set recipeslist = helpers.getRecipesAscending(recipes) %}
     {% include "layouts/recipes-list.njk" %}
 </main>

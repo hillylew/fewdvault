@@ -14,7 +14,7 @@ permalink: /categories/{{ tag }}/
 <main id="main" class="container mx-auto">
   <h2 class="p-2 font-bold bg-white border shadow-lg border-silver">Categorized “{{ tag }}”</h2>
 
-  {% set recipeslist = collections[ tag ] %}
+  {% set recipeslist = helpers.getRecipesWithTag( recipes, tag ) %}
   {% include "layouts/recipes-list.njk" %}
 
   <br />

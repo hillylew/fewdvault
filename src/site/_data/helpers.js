@@ -20,4 +20,8 @@ module.exports = {
       else return 0;
     });
   },
+
+  getRecipesWithTag(recipes, tag) {
+    return recipes.filter(item => item.tags.includes(tag));
+  },
 };
