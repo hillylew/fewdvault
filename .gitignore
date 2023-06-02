@@ -3,7 +3,6 @@
 *.ndjson
 # Compiled eleventy site
 public
-_site
 # Ignore dev and build directories.
 node_modules
 .cache

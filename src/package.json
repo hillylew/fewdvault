@@ -2,12 +2,12 @@
   "name": "11ty-starter",
   "version": "1.0.0",
   "scripts": {
-    "build:css": "tailwindcss -i ./css/main.css -o _site/main.css --minify",
+    "build:css": "tailwindcss -i ./css/main.css -o ../public/main.css --minify",
     "build:site": "ELEVENTY_ENV=production eleventy",
-    "watch:css": "tailwindcss -i ./css/main.css -o _site/main.css --watch",
+    "watch:css": "tailwindcss -i ./css/main.css -o ../public/main.css --watch",
     "watch:site": "eleventy --serve",
     "build": "npm run clean && npm run build:css && npm run build:site",
-    "clean": "rimraf _site && rimraf .cache",
+    "clean": "rimraf ../public && rimraf ../.cache",
     "start": "npm run clean && concurrently 'npm:watch:*'"
   },
   "devDependencies": {
