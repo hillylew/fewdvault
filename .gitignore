@@ -1,5 +1,6 @@
 # Compiled sanity studio
 /dist
+*.ndjson
 # Compiled eleventy site
 public
 _site

@@ -25,8 +25,8 @@
                     <h2 class="items-center px-4 pt-2 mb-0 font-bold leading-snug border border-t-0 border-b-2 border-l-0 border-r-0 hover:text-red text-outer-space recipe-title border-red">{{ recipe.title }}</h2>
                 </a>
                 <div class="p-3 recipe-card sm:flex">
-                    {% if recipe.image %}
-                        <img class="hidden object-cover w-32 h-32 mb-4 border rounded-lg sm:mr-4 sm:block sm:mb-0 fade-in border-red" src="{{ helpers.imageURL(sanityClient, recipe.image, 128, 128) }}" alt="{{ recipe.image_alt }}" title="{{ recipe.title }}" />
+                    {% if recipe.image.asset %}
+                        <img class="hidden object-cover w-32 h-32 mb-4 border rounded-lg sm:mr-4 sm:block sm:mb-0 fade-in border-red" src="{{ helpers.imageURL(sanityClient, recipe.image.asset, 128, 128) }}" alt="{{ recipe.image.alt }}" title="{{ recipe.title }}" />
                     {% endif %}
                     <div class="min-h-32 sm:min-h-16 text-wrapper">
                         {% if recipe.source %}
