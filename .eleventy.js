@@ -22,10 +22,11 @@ module.exports = eleventyConfig => {
     })
   );
 
-  eleventyConfig.addPassthroughCopy({ "./img": "img" });
-  eleventyConfig.addPassthroughCopy({ "./icons": "./" });
-  eleventyConfig.addPassthroughCopy({ "./uploads": "uploads" });
-  eleventyConfig.addPassthroughCopy({ "./fonts": "fonts" });
+  eleventyConfig.addPassthroughCopy('src/_redirects');
+  eleventyConfig.addPassthroughCopy({ "src/img": "img" });
+  eleventyConfig.addPassthroughCopy({ "src/ions": "./" });
+  eleventyConfig.addPassthroughCopy({ "src/uploads": "uploads" });
+  eleventyConfig.addPassthroughCopy({ "src/fonts": "fonts" });
 
   // Filters.
   eleventyConfig.addFilter("prettyDate", dateObject => {
@@ -114,8 +115,8 @@ module.exports = eleventyConfig => {
 
   return {
     dir: {
-      input: "./site",
-      output: "../public"
+      input: "src/site",
+      output: "public"
     },
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
