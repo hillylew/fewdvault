@@ -11,11 +11,11 @@ permalink: "/recipes/{{ recipe.slug }}/"
 
 <main id="main" class="container mx-auto overflow-hidden main ">
   <div class="bg-white border shadow-xl border-silver">
-    <h2 class="items-center px-4 pt-4 pb-2 mb-0 font-bold leading-snug border border-t-0 border-b-2 border-l-0 border-r-0 text-outer-space recipe-title border-red">{{ recipe.title }}</h2>
-    <div class="p-3 recipe-card">
+    <h2 class="items-center px-4 pt-4 pb-2 mb-0 font-bold leading-snug border-b-2 text-outer-space recipe-title border-red">{{ recipe.title }}</h2>
+    <div class="px-3 pt-2 pb-3 recipe-card">
       <div class="sm:flex page-top">
         {% if recipe.image.asset %}
-          <img class="flex-shrink-0 h-64 max-w-full mb-1 sm:mr-6 fade-in" src="{{ helpers.imageURL(sanityClient, recipe.image.asset) }}" alt="{{ recipe.image.alt }}" title="{{ recipe.title }}" />
+          <img class="flex-shrink-0 h-64 max-w-full mb-2 sm:mr-6 fade-in" src="{{ helpers.imageURL(sanityClient, recipe.image.asset) }}" alt="{{ recipe.image.alt }}" title="{{ recipe.title }}" />
         {% else %}
           <div class="-mt-1"></div>
         {% endif %}

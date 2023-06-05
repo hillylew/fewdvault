@@ -113,5 +113,14 @@ ul {
 
 ol,
 ul {
-  @apply pl-10 my-4;
+  @apply pl-10 my-6 leading-6;
+}
+
+ol li,
+ul li {
+  @apply leading-6;
+}
+
+ul li {
+  line-height: 20px;
 }

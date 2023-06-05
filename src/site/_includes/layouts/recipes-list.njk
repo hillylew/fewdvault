@@ -65,7 +65,7 @@
     let filteredDataResources = [];
 
     const dataResources = [
-        {% for recipe in recipes %}
+        {% for recipe in recipeslist %}
             {
                 'title': '{{ recipe.title | toLowerCase }}',
                 'ingredients': '{{ recipe.ingredients | jsEscape }}',
