@@ -23,7 +23,7 @@ module.exports = eleventyConfig => {
   );
 
   eleventyConfig.addPassthroughCopy({ "src/img": "img" });
-  eleventyConfig.addPassthroughCopy({ "src/ions": "./" });
+  eleventyConfig.addPassthroughCopy({ "src/icons": "./" });
   eleventyConfig.addPassthroughCopy({ "src/uploads": "uploads" });
   eleventyConfig.addPassthroughCopy({ "src/fonts": "fonts" });
 
