@@ -22,7 +22,6 @@ module.exports = eleventyConfig => {
     })
   );
 
-  eleventyConfig.addPassthroughCopy('src/_redirects');
   eleventyConfig.addPassthroughCopy({ "src/img": "img" });
   eleventyConfig.addPassthroughCopy({ "src/ions": "./" });
   eleventyConfig.addPassthroughCopy({ "src/uploads": "uploads" });
