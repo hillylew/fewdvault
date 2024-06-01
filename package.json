@@ -8,7 +8,8 @@
     "watch:site": "eleventy --serve",
     "build": "npm run clean && npm run build:css && npm run build:site",
     "clean": "rimraf public && rimraf .cache",
-    "start": "npm run clean && concurrently 'npm:watch:*'"
+    "start": "npm run clean && concurrently 'npm:watch:*'",
+    "deploy": "netlify deploy --prod --dir=public"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0",
