@@ -1,0 +1,38 @@
+name: Deploy Site
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+on:
+  push:
+    branches: ["main"]
+
+  workflow_dispatch:
+
+  repository_dispatch:
+    types: [sanity_publish]
+
+jobs:
+  deploy:
+    env:
+      NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+      NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+      SANITY_SECRET_TOKEN: ${{ secrets.SANITY_SECRET_TOKEN }}
+
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set node version
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: ".nvmrc"
+
+      - name: Deploy site
+        run: |
+          npm ci
+          npm run build
+          npm run deploy
