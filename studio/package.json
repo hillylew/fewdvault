@@ -15,20 +15,19 @@
     "sanity"
   ],
   "dependencies": {
-    "@sanity/cli": "^3.2.0",
-    "@sanity/orderable-document-list": "^1.0.2",
-    "@sanity/production-preview": "^2.33.2",
-    "@sanity/table": "^1.0.1",
-    "@sanity/vision": "^3.2.0",
+    "@sanity/cli": "^3.57.0",
+    "@sanity/orderable-document-list": "^1.2.1",
+    "@sanity/table": "^1.1.2",
+    "@sanity/vision": "^3.57.0",
     "easymde": "^2.18.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.8.0",
-    "sanity": "^3.11.5",
-    "sanity-plugin-markdown": "^4.1.0",
-    "styled-components": "^5.2.0",
-    "uuid": "^3.3.0"
+    "sanity": "^3.57.0",
+    "sanity-plugin-markdown": "^4.1.2",
+    "styled-components": "^6.1",
+    "uuid": "^10.0.0"
   },
   "repository": {
     "type": "git",

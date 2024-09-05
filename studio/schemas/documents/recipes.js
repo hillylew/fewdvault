@@ -72,7 +72,7 @@ export default {
       type: "array",
       of: [{type: "string"}],
       options: {
-        layout: "tags"
+        layout: "list"
       }
     },
     {

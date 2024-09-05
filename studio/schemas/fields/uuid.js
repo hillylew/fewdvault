@@ -1,9 +1,9 @@
-import uuidv1 from "uuid";
+import { v4 as uuidv4 } from 'uuid';
 
 export default {
   title: "UUID",
   name: "uuid",
   type: "string",
   hidden: true,
-  initialValue: uuidv1(),
+  initialValue: uuidv4(),
 }
