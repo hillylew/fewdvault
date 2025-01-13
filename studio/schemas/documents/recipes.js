@@ -72,7 +72,27 @@ export default {
       type: "array",
       of: [{type: "string"}],
       options: {
-        layout: "list"
+        list: [
+          {title: 'American', value: 'american'},
+          {title: 'Appetizers', value: 'appetizers'},
+          {title: 'Asian', value: 'asian'},
+          {title: 'Bread', value: 'bread'},
+          {title: 'Breakfast', value: 'breakfast'},
+          {title: 'Condiments', value: 'condiments'},
+          {title: 'Dessert', value: 'dessert'},
+          {title: 'Drinks', value: 'drinks'},
+          {title: 'Entrees', value: 'entrees'},
+          {title: 'German', value: 'german'},
+          {title: 'Gluten-free', value: 'gluten-free'},
+          {title: 'Greek', value: 'greek'},
+          {title: 'Italian', value: 'italian'},
+          {title: 'Mexican', value: 'mexican'},
+          {title: 'Pets', value: 'pets'},
+          {title: 'Sauce', value: 'sauce'},
+          {title: 'Sides', value: 'side'},
+          {title: 'Soups', value: 'soups'},
+          {title: 'Vegetarian', value: 'veg'},
+        ]
       }
     },
     {
