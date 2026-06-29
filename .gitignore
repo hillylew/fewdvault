@@ -5,6 +5,7 @@
 public
 # Ignore dev and build directories.
 node_modules
+.env
 .cache
 .idea
 .vscode

@@ -1,0 +1,38 @@
+name: Deploy Sanity Studio
+
+# Cancel in progress jobs
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+on:
+  push:
+    branches: ["main"]
+    paths: ["studio/**"]
+
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    env:
+      SANITY_AUTH_TOKEN: ${{ secrets.SANITY_AUTH_TOKEN }}
+      SANITY_STUDIO_TITLE: ${{ vars.SANITY_STUDIO_TITLE }}
+      SANITY_STUDIO_PROJECT_ID: ${{ secrets.SANITY_STUDIO_PROJECT_ID }}
+      SANITY_STUDIO_DATASET: ${{ secrets.SANITY_STUDIO_DATASET }}
+
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set node version
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: "studio/.nvmrc"
+
+      - name: Deploy studio
+        working-directory: studio
+        run: |
+          npm ci
+          npm run deploy

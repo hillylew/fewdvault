@@ -2,7 +2,7 @@ export default function resolveProductionUrl(document) {
   // Set the base URL based on the env.
   const baseURL = window.location.href.includes("localhost")
     ? "http://localhost:8080"
-    : "https://fewdvault.netlify.app";
+    : "https://fewdvault.pages.dev";
 
   // Handle page previews.
   if (
