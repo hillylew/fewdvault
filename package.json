@@ -29,6 +29,8 @@
   },
   "dependencies": {
     "@alpinejs/focus": "^3.14.0",
+    "@sanity/client": "^7.23.0",
+    "@sanity/image-url": "^2.1.1",
     "alpinejs": "^3.14.0",
     "groq": "^3.44.0"
   },
